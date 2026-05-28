@@ -6,9 +6,9 @@ export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
       { title: "Enes Senel — Senior Scientist, Computational Biology" },
-      { name: "description", content: "Personal site of Enes Senel — senior scientist and computational biologist working at the intersection of genomics, machine learning, and drug discovery." },
+      { name: "description", content: "Personal site of Enes Senel — senior scientist at Johnson & Johnson Innovative Medicine working on single-cell multi-omics, spatial transcriptomics, and machine learning for therapeutics." },
       { property: "og:title", content: "Enes Senel — Senior Scientist" },
-      { property: "og:description", content: "Education, work, research, and projects." },
+      { property: "og:description", content: "Single-cell multi-omics, spatial transcriptomics, and ML for therapeutics." },
     ],
   }),
   component: Home,
@@ -17,44 +17,44 @@ export const Route = createFileRoute("/")({
 const highlights = [
   {
     eyebrow: "Now",
-    title: "Senior Scientist, Computational Biology",
-    body: "Leading multi-omics analysis pipelines and translational ML models for early-stage drug discovery.",
+    title: "Senior Scientist @ J&J Innovative Medicine",
+    body: "Leading single-cell multi-omics projects in oncology and immunology — integrating transcriptomic, proteomic, and spatial datasets to uncover immune mechanisms.",
   },
   {
     eyebrow: "Focus",
-    title: "Single-cell & spatial genomics",
-    body: "Building reproducible workflows that turn raw sequencing into actionable target biology.",
+    title: "Spatial transcriptomics & cell–cell interactions",
+    body: "PhD work at the Max Delbrück Center on computational modelling and machine learning for spatial transcriptomics.",
   },
   {
     eyebrow: "Lately",
-    title: "Open-source bioinformatics tools",
-    body: "Maintaining libraries for scalable variant interpretation and pathway-level inference.",
+    title: "Open-source bioinformatics",
+    body: "Co-author of novoSpaRc and creator of Optocoder — tools for spatial reconstruction and optical decoding of bead arrays.",
   },
 ];
 
 const recent = [
-  { tag: "Research", title: "Latent representations of perturbation atlases", year: "2025" },
-  { tag: "Talk", title: "Foundation models meet bench biology", year: "2025" },
-  { tag: "Project", title: "scOmics — a notebook-first analysis toolkit", year: "2024" },
-  { tag: "Paper", title: "Spatial deconvolution at scale", year: "2024" },
+  { tag: "Paper", title: "Ciltacabtagene autoleucel biomarkers — CARTITUDE-1", year: "2025" },
+  { tag: "Tool", title: "Optocoder — decoding spatially indexed bead arrays", year: "2022" },
+  { tag: "Paper", title: "novoSpaRc — spatial reconstruction with optimal transport", year: "2021" },
+  { tag: "Patent", title: "3D reconstruction of tissue gene expression data", year: "2022" },
 ];
 
 function Home() {
   return (
     <PageShell>
-      {/* HERO — magazine masthead */}
       <section className="container-prose pt-14 pb-20 md:pt-20 md:pb-28">
         <div className="grid gap-10 md:grid-cols-12 md:gap-12">
           <div className="md:col-span-7">
-            <p className="eyebrow">Personal — Est. 2014</p>
+            <p className="eyebrow">Berlin, Germany</p>
             <h1 className="mt-5 font-display text-5xl font-medium leading-[1.02] text-foreground md:text-7xl">
               Enes Senel.
               <span className="block text-sienna">Computational biology,</span>
-              <span className="block text-muted-foreground">crafted with care.</span>
+              <span className="block text-muted-foreground">single-cell &amp; spatial.</span>
             </h1>
             <p className="mt-7 max-w-xl text-lg text-muted-foreground md:text-xl">
-              Senior scientist working where genomics, machine learning, and
-              human biology meet. I build tools and tell stories with data.
+              Senior Scientist at Johnson &amp; Johnson Innovative Medicine. I build
+              machine-learning pipelines for single-cell and spatial transcriptomics
+              that move from raw data to therapeutic insight.
             </p>
             <div className="mt-9 flex flex-wrap gap-3">
               <Link
@@ -84,10 +84,10 @@ function Home() {
               <div className="absolute inset-x-0 bottom-0 flex items-end justify-between bg-gradient-to-t from-background/95 to-transparent px-5 pt-16 pb-5">
                 <div>
                   <p className="font-display text-xs uppercase tracking-[0.18em] text-sienna">Currently</p>
-                  <p className="mt-1 text-sm text-foreground">Berlin → remote</p>
+                  <p className="mt-1 text-sm text-foreground">Berlin, Germany</p>
                 </div>
                 <span className="rounded-full bg-accent/90 px-3 py-1 text-xs font-medium text-accent-foreground">
-                  Open to collab
+                  J&amp;J Innovative Medicine
                 </span>
               </div>
             </div>
@@ -95,7 +95,6 @@ function Home() {
         </div>
       </section>
 
-      {/* MAGAZINE FEATURED + GRID */}
       <section className="container-prose pb-20">
         <div className="flex items-baseline justify-between border-t border-border pt-10">
           <h2 className="font-display text-2xl font-medium md:text-3xl">In focus</h2>
@@ -117,11 +116,10 @@ function Home() {
         </div>
       </section>
 
-      {/* RECENT — list */}
       <section className="container-prose pb-24">
         <div className="flex items-baseline justify-between border-t border-border pt-10">
           <h2 className="font-display text-2xl font-medium md:text-3xl">Recently</h2>
-          <Link to="/projects" className="eyebrow link-underline">All work →</Link>
+          <Link to="/research" className="eyebrow link-underline">All publications →</Link>
         </div>
         <ul className="mt-6 divide-y divide-border">
           {recent.map((item) => (

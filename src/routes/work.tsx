@@ -5,9 +5,9 @@ export const Route = createFileRoute("/work")({
   head: () => ({
     meta: [
       { title: "Work History — Enes Senel" },
-      { name: "description", content: "Professional roles and industry experience of Enes Senel across biotech and pharma." },
+      { name: "description", content: "Professional roles of Enes Senel: Johnson & Johnson Innovative Medicine, Max Delbrück Center, Hebrew University of Jerusalem, Coriolis Pharma, Max Planck Institute, Ozyegin Robotics Lab." },
       { property: "og:title", content: "Work History — Enes Senel" },
-      { property: "og:description", content: "Roles across biotech and pharma." },
+      { property: "og:description", content: "A decade across biotech, pharma, and research labs." },
     ],
   }),
   component: Work,
@@ -15,34 +15,73 @@ export const Route = createFileRoute("/work")({
 
 const roles = [
   {
-    period: "2023 — Present",
-    role: "Senior Scientist, Computational Biology",
-    company: "Helix Therapeutics",
-    location: "Berlin, DE",
+    period: "Aug 2025 — Present",
+    role: "Senior Scientist",
+    company: "Johnson & Johnson Innovative Medicine",
+    location: "Berlin, Germany",
     bullets: [
-      "Lead a 4-person team building multi-omics pipelines that triage 200+ targets per quarter.",
-      "Designed a transformer-based perturbation model adopted by three discovery programs.",
-      "Partner with chemistry and biology leads to translate signals into validated hypotheses.",
+      "Leading single-cell multi-omics analysis projects in oncology and immunology, integrating transcriptomic, proteomic, and spatial datasets to uncover immune mechanisms and inform therapeutic strategy from discovery through product development.",
+      "Mentoring junior scientists and managing consultants; fostering cross-functional collaboration and technical excellence.",
+      "Contributing to strategic planning, experimental design, and translational initiatives — bridging computational insights with experimental validation.",
     ],
   },
   {
-    period: "2021 — 2023",
-    role: "Computational Biologist",
-    company: "Insitro",
-    location: "Remote",
+    period: "Oct 2023 — Jul 2025",
+    role: "Data Scientist",
+    company: "Johnson & Johnson Innovative Medicine",
+    location: "Berlin, Germany",
     bullets: [
-      "Built scalable single-cell and spatial workflows on Nextflow + AWS Batch.",
-      "Contributed core modules to internal target-discovery platform.",
+      "Developed automated high-throughput pipelines for large-scale single-cell RNA, protein, and multi-modal analyses using Python and Nextflow — enabling rapid, reproducible decision-making across clinical and manufacturing programs.",
+      "Led single-cell analysis projects across clinical and manufacturing programs, delivering insights to guide biomarker discovery and process optimization.",
     ],
   },
   {
-    period: "2019 — 2021",
-    role: "Research Scientist (PhD)",
-    company: "Max Planck Institute",
-    location: "Munich, DE",
+    period: "Oct 2019 — Sep 2023",
+    role: "Doctoral Researcher",
+    company: "Max Delbrück Center for Molecular Medicine",
+    location: "Berlin, Germany",
     bullets: [
-      "Published in Nature Methods and Cell Systems on regulatory network inference.",
-      "TA for graduate-level statistical genomics course.",
+      "Developed Optocoder, a machine-learning pipeline for optical sequencing-based spatial transcriptomics platforms — accurate decoding of barcoded transcripts from imaging data.",
+      "Improved performance and scalability of novoSpaRc, a model for reconstructing spatial tissue architecture from single-cell transcriptomic data, enabling application to larger tissues and high-resolution spatial maps.",
+    ],
+  },
+  {
+    period: "Feb 2023 — Apr 2023",
+    role: "Visiting Scientist",
+    company: "The Hebrew University of Jerusalem",
+    location: "Rehovot, Israel",
+    bullets: [
+      "Built an ML pipeline leveraging pre-trained large language models (ProtBERT) to identify and predict novel anti-insecticidal proteins from raw sequence data; integrated biological domain knowledge to guide interpretability and experimental validation.",
+    ],
+  },
+  {
+    period: "Apr 2019 — Sep 2019",
+    role: "Machine Learning Research Student",
+    company: "Coriolis Pharma GmbH",
+    location: "Munich, Germany",
+    bullets: [
+      "Developed deep-learning solutions for automated particle detection and classification from flow microscopy images.",
+      "Created an integrated Python/PyTorch/TensorFlow package handling data processing, model training, analysis, and evaluation.",
+    ],
+  },
+  {
+    period: "May 2018 — Sep 2019",
+    role: "Research Assistant",
+    company: "Max Planck Institute for Brain Research",
+    location: "Frankfurt am Main, Germany",
+    bullets: [
+      "Used supervised ML to investigate activity-dependent changes in the proteome.",
+      "Designed an analysis pipeline combining domain adaptation and multimodal integration for proteomic and transcriptomic data.",
+    ],
+  },
+  {
+    period: "2014 — 2016",
+    role: "Undergraduate Research Assistant",
+    company: "Ozyegin University Robotics Lab",
+    location: "Istanbul, Turkey",
+    bullets: [
+      "Developed real-time needle tip localization and tracking algorithms using ultrasound imaging — enabling autonomous robotic control for image-guided biopsy.",
+      "Built an end-user C++/CUDA software interface to guide the biopsy robot with real-time image analysis feedback.",
     ],
   },
 ];
@@ -53,14 +92,14 @@ function Work() {
       <PageHeader
         eyebrow="Work"
         title="A decade of shipping science."
-        lead="From academic labs to fast-moving biotech — the same instinct: build the smallest tool that answers the right question."
+        lead="From robotics labs to spatial transcriptomics to clinical-stage cell therapy — the same instinct: build the smallest tool that answers the right question."
       />
 
       <section className="container-prose pb-24">
         <ol className="space-y-6">
           {roles.map((r) => (
             <li
-              key={r.role + r.company}
+              key={r.role + r.company + r.period}
               className="rounded-2xl border border-border bg-card p-7 md:p-9"
             >
               <div className="flex flex-wrap items-baseline justify-between gap-x-6 gap-y-2">
