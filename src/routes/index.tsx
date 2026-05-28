@@ -1,29 +1,138 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
+import { PageShell } from "@/components/PageShell";
+import heroImg from "@/assets/hero.jpg";
 
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Your App" },
-      { name: "description", content: "Replace this with a one-sentence description of your app." },
-      { property: "og:title", content: "Your App" },
-      { property: "og:description", content: "Replace this with a one-sentence description of your app." },
+      { title: "Enes Senel — Senior Scientist, Computational Biology" },
+      { name: "description", content: "Personal site of Enes Senel — senior scientist and computational biologist working at the intersection of genomics, machine learning, and drug discovery." },
+      { property: "og:title", content: "Enes Senel — Senior Scientist" },
+      { property: "og:description", content: "Education, work, research, and projects." },
     ],
   }),
-  component: Index,
+  component: Home,
 });
 
-// IMPORTANT: Replace this placeholder. See ./README.md for routing conventions.
-function Index() {
+const highlights = [
+  {
+    eyebrow: "Now",
+    title: "Senior Scientist, Computational Biology",
+    body: "Leading multi-omics analysis pipelines and translational ML models for early-stage drug discovery.",
+  },
+  {
+    eyebrow: "Focus",
+    title: "Single-cell & spatial genomics",
+    body: "Building reproducible workflows that turn raw sequencing into actionable target biology.",
+  },
+  {
+    eyebrow: "Lately",
+    title: "Open-source bioinformatics tools",
+    body: "Maintaining libraries for scalable variant interpretation and pathway-level inference.",
+  },
+];
+
+const recent = [
+  { tag: "Research", title: "Latent representations of perturbation atlases", year: "2025" },
+  { tag: "Talk", title: "Foundation models meet bench biology", year: "2025" },
+  { tag: "Project", title: "scOmics — a notebook-first analysis toolkit", year: "2024" },
+  { tag: "Paper", title: "Spatial deconvolution at scale", year: "2024" },
+];
+
+function Home() {
   return (
-    <div
-      className="flex min-h-screen items-center justify-center"
-      style={{ backgroundColor: "#fcfbf8" }}
-    >
-      <img
-        data-lovable-blank-page-placeholder="REMOVE_THIS"
-        src="https://cdn.gpteng.co/blank-app-v1.svg"
-        alt="Your app will live here!"
-      />
-    </div>
+    <PageShell>
+      {/* HERO — magazine masthead */}
+      <section className="container-prose pt-14 pb-20 md:pt-20 md:pb-28">
+        <div className="grid gap-10 md:grid-cols-12 md:gap-12">
+          <div className="md:col-span-7">
+            <p className="eyebrow">Personal — Est. 2014</p>
+            <h1 className="mt-5 font-display text-5xl font-medium leading-[1.02] text-foreground md:text-7xl">
+              Enes Senel.
+              <span className="block text-sienna">Computational biology,</span>
+              <span className="block text-muted-foreground">crafted with care.</span>
+            </h1>
+            <p className="mt-7 max-w-xl text-lg text-muted-foreground md:text-xl">
+              Senior scientist working where genomics, machine learning, and
+              human biology meet. I build tools and tell stories with data.
+            </p>
+            <div className="mt-9 flex flex-wrap gap-3">
+              <Link
+                to="/research"
+                className="rounded-full bg-primary px-6 py-3 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90"
+              >
+                Read the research
+              </Link>
+              <Link
+                to="/about"
+                className="rounded-full border border-border bg-card px-6 py-3 text-sm font-medium text-foreground transition-colors hover:bg-muted"
+              >
+                About me →
+              </Link>
+            </div>
+          </div>
+
+          <div className="md:col-span-5">
+            <div className="relative aspect-[4/5] overflow-hidden rounded-3xl border border-border bg-card shadow-[0_30px_80px_-40px_color-mix(in_oklab,var(--sienna)_60%,transparent)]">
+              <img
+                src={heroImg}
+                alt="Abstract DNA illustration in autumn tones"
+                width={1280}
+                height={1280}
+                className="h-full w-full object-cover"
+              />
+              <div className="absolute inset-x-0 bottom-0 flex items-end justify-between bg-gradient-to-t from-background/95 to-transparent px-5 pt-16 pb-5">
+                <div>
+                  <p className="font-display text-xs uppercase tracking-[0.18em] text-sienna">Currently</p>
+                  <p className="mt-1 text-sm text-foreground">Berlin → remote</p>
+                </div>
+                <span className="rounded-full bg-accent/90 px-3 py-1 text-xs font-medium text-accent-foreground">
+                  Open to collab
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* MAGAZINE FEATURED + GRID */}
+      <section className="container-prose pb-20">
+        <div className="flex items-baseline justify-between border-t border-border pt-10">
+          <h2 className="font-display text-2xl font-medium md:text-3xl">In focus</h2>
+          <span className="eyebrow">Three threads</span>
+        </div>
+        <div className="mt-8 grid gap-6 md:grid-cols-3">
+          {highlights.map((h) => (
+            <article
+              key={h.title}
+              className="group rounded-2xl border border-border bg-card p-7 transition-shadow hover:shadow-[0_20px_50px_-30px_color-mix(in_oklab,var(--sienna)_55%,transparent)]"
+            >
+              <p className="eyebrow">{h.eyebrow}</p>
+              <h3 className="mt-3 font-display text-xl font-medium leading-snug text-foreground">
+                {h.title}
+              </h3>
+              <p className="mt-3 text-sm leading-relaxed text-muted-foreground">{h.body}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      {/* RECENT — list */}
+      <section className="container-prose pb-24">
+        <div className="flex items-baseline justify-between border-t border-border pt-10">
+          <h2 className="font-display text-2xl font-medium md:text-3xl">Recently</h2>
+          <Link to="/projects" className="eyebrow link-underline">All work →</Link>
+        </div>
+        <ul className="mt-6 divide-y divide-border">
+          {recent.map((item) => (
+            <li key={item.title} className="grid grid-cols-[80px_1fr_auto] items-baseline gap-6 py-5 md:grid-cols-[120px_1fr_auto]">
+              <span className="eyebrow">{item.tag}</span>
+              <span className="font-display text-lg text-foreground">{item.title}</span>
+              <span className="text-sm text-muted-foreground">{item.year}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    </PageShell>
   );
 }
