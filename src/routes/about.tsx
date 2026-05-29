@@ -49,28 +49,31 @@ function About() {
     <PageShell>
       <PageHeader
         eyebrow="About"
-        title="A computational biologist who treats software like a research instrument."
-        lead="I'm Enes — a Senior Scientist at Johnson & Johnson Innovative Medicine, working on single-cell and spatial multi-omics in oncology and immunology. I care about reproducibility, careful statistics, and tools other scientists actually want to use."
+        title="A computer scientist who treats software like a research instrument."
+        lead="I'm Enes — Senior Scientist at Johnson & Johnson Innovative Medicine. I lead ML and computational biology programs in oncology and immunology, but my background spans medical robotics, computer vision, neuroscience, and open-source tools. I care about reproducibility, careful statistics, and shipping systems other people actually want to use."
       />
 
       <section className="container-prose grid gap-12 pb-16 md:grid-cols-12">
         <div className="space-y-5 text-lg leading-relaxed text-foreground/90 md:col-span-7">
           <p>
-            I trained as a computer scientist in Istanbul and Munich, then moved
-            to Berlin for a PhD in computational biology at the Max Delbrück
-            Center, where I worked on spatial transcriptomics and the algorithms
-            that let us reconstruct tissue from single-cell data.
+            I trained as a computer scientist in Istanbul and Munich. My first
+            research years were in a robotics lab building real-time
+            computer-vision systems for image-guided biopsy robots, then
+            deep-learning pipelines for pharmaceutical quality control, and
+            multi-omics integration in computational neuroscience.
           </p>
           <p>
-            Today I lead multi-omics projects in drug discovery — translating
-            transcriptomic, proteomic, and spatial signals into actionable
-            biology, mentoring junior scientists, and bridging computational
-            work with experimental validation.
+            I moved to Berlin for a PhD in computational biology at the Max
+            Delbrück Center, working on spatial transcriptomics and the
+            algorithms that let us reconstruct tissue from single-cell data —
+            shipping open-source tools used by labs and industry.
           </p>
           <p>
-            Outside of work I serve PhD communities (Helmholtz Juniors, MDC PhD
-            Representatives) and tinker with open-source tools whenever I get
-            the chance.
+            Today I lead multi-omics projects in drug discovery, mentoring
+            junior scientists and bridging computational, experimental, and
+            clinical teams. I'm equally interested in roles that lean toward
+            ML engineering, applied research leadership, or domain-bridging
+            scientific work outside biology.
           </p>
         </div>
         <aside className="space-y-5 md:col-span-5">

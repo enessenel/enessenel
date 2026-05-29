@@ -18,17 +18,17 @@ const highlights = [
   {
     eyebrow: "Now",
     title: "Senior Scientist @ J&J Innovative Medicine",
-    body: "Leading single-cell multi-omics projects in oncology and immunology — integrating transcriptomic, proteomic, and spatial datasets to uncover immune mechanisms.",
+    body: "Technical lead for single-cell multi-omics in oncology and immunology — setting strategy, mentoring scientists, and translating ML into therapeutic decisions.",
   },
   {
-    eyebrow: "Focus",
-    title: "Spatial transcriptomics & cell–cell interactions",
-    body: "PhD work at the Max Delbrück Center on computational modelling and machine learning for spatial transcriptomics.",
+    eyebrow: "Range",
+    title: "From medical robotics to spatial omics",
+    body: "Computer-science training (Istanbul, Munich), real-time computer vision for image-guided robots, deep learning for pharma QC, then a PhD on ML for spatial transcriptomics. I move across domains.",
   },
   {
     eyebrow: "Lately",
-    title: "Open-source bioinformatics",
-    body: "Co-author of novoSpaRc and creator of Optocoder — tools for spatial reconstruction and optical decoding of bead arrays.",
+    title: "Open-source ML & leadership",
+    body: "Co-author of novoSpaRc and creator of Optocoder. Elected PhD representative at Helmholtz. Comfortable as IC, tech lead, or bridge between scientific and engineering teams.",
   },
 ];
 
@@ -48,13 +48,14 @@ function Home() {
             <p className="eyebrow">Berlin, Germany</p>
             <h1 className="mt-5 font-display text-5xl font-medium leading-[1.02] text-foreground md:text-7xl">
               Enes Senel.
-              <span className="block text-sienna">Computational biology,</span>
-              <span className="block text-muted-foreground">single-cell &amp; spatial.</span>
+              <span className="block text-sienna">Machine learning,</span>
+              <span className="block text-muted-foreground">across the sciences.</span>
             </h1>
             <p className="mt-7 max-w-xl text-lg text-muted-foreground md:text-xl">
-              Senior Scientist at Johnson &amp; Johnson Innovative Medicine. I build
-              machine-learning pipelines for single-cell and spatial transcriptomics
-              that move from raw data to therapeutic insight.
+              Senior Scientist at Johnson &amp; Johnson Innovative Medicine. A
+              decade building ML systems across computational biology, medical
+              robotics, and pharma — leading teams and shipping tools that turn
+              data into decisions.
             </p>
             <div className="mt-9 flex flex-wrap gap-3">
               <Link
