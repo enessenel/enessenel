@@ -16,19 +16,19 @@ export const Route = createFileRoute("/")({
 
 const highlights = [
   {
-    eyebrow: "Now",
-    title: "Senior Scientist @ J&J Innovative Medicine",
-    body: "Technical lead for single-cell multi-omics in oncology and immunology — setting strategy, mentoring scientists, and translating ML into therapeutic decisions.",
+    eyebrow: "Focus",
+    title: "Single-cell multi-omics for therapeutics",
+    body: "Technical lead at J&J Innovative Medicine — setting analytical strategy for oncology and immunology programs, mentoring scientists, and translating ML into clinical and CMC decisions.",
+  },
+  {
+    eyebrow: "Craft",
+    title: "Open-source methods, built to scale",
+    body: "PhD on ML for spatial transcriptomics at the Max Delbrück Center. Creator of Optocoder, core contributor to novoSpaRc — tools adopted by labs and industry. Co-inventor on a US patent.",
   },
   {
     eyebrow: "Range",
-    title: "From medical robotics to spatial omics",
-    body: "Computer-science training (Istanbul, Munich), real-time computer vision for image-guided robots, deep learning for pharma QC, then a PhD on ML for spatial transcriptomics. I move across domains.",
-  },
-  {
-    eyebrow: "Lately",
-    title: "Open-source ML & leadership",
-    body: "Co-author of novoSpaRc and creator of Optocoder. Elected PhD representative at Helmholtz. Comfortable as IC, tech lead, or bridge between scientific and engineering teams.",
+    title: "A computer scientist who travels well",
+    body: "Trained in CS in Istanbul and Munich. Earlier work in real-time computer vision for image-guided biopsy robots and deep learning for pharma QC — comfortable bridging domains and shipping in new ones.",
   },
 ];
 
@@ -48,14 +48,15 @@ function Home() {
             <p className="eyebrow">Berlin, Germany</p>
             <h1 className="mt-5 font-display text-5xl font-medium leading-[1.02] text-foreground md:text-7xl">
               Enes Senel.
-              <span className="block text-sienna">Machine learning,</span>
-              <span className="block text-muted-foreground">across the sciences.</span>
+              <span className="block text-sienna">Computational biology,</span>
+              <span className="block text-muted-foreground">led by machine learning.</span>
             </h1>
             <p className="mt-7 max-w-xl text-lg text-muted-foreground md:text-xl">
-              Senior Scientist at Johnson &amp; Johnson Innovative Medicine. A
-              decade building ML systems across computational biology, medical
-              robotics, and pharma — leading teams and shipping tools that turn
-              data into decisions.
+              Senior Scientist at Johnson &amp; Johnson Innovative Medicine,
+              leading single-cell multi-omics for oncology and immunology.
+              A decade of ML across spatial transcriptomics, pharma QC, and
+              medical robotics — turning hard biological questions into
+              decisions teams can act on.
             </p>
             <div className="mt-9 flex flex-wrap gap-3">
               <Link
