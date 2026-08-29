@@ -30,12 +30,12 @@ const roles: Role[] = [
     company: "Johnson & Johnson Innovative Medicine",
     location: "Berlin, Germany",
     summary:
-      "Technical lead for single-cell multi-omics in oncology and immunology — shaping computational strategy from discovery through product development.",
+      "Technical lead for single-cell multi-omics in oncology and immunology, from discovery through product development.",
     bullets: [
-      "Lead end-to-end single-cell multi-omics programs (transcriptomics, proteomics, spatial) that directly inform target selection, mechanism-of-action narratives, and translational strategy for oncology and immunology assets.",
-      "Set the analytical direction across multiple parallel projects — defining standards, reviewing methodology, and aligning computational deliverables with clinical and discovery stakeholders.",
-      "Mentor junior scientists and manage external consultants; grow team capability through code review, design discussions, and structured onboarding.",
-      "Partner with wet-lab, clinical, and CMC teams to translate computational insights into experimental designs and go/no-go decisions on assets in development.",
+      "Lead single-cell multi-omics programs (transcriptomics, proteomics, spatial) that feed target selection, mechanism-of-action work, and translational strategy for oncology and immunology assets.",
+      "Set the analytical direction across several parallel projects: defining standards, reviewing methodology, and agreeing deliverables with clinical and discovery stakeholders.",
+      "Mentor junior scientists and manage external consultants, mostly through code review, design discussions, and onboarding.",
+      "Work with wet-lab, clinical, and CMC teams to turn analyses into experimental designs and go/no-go decisions.",
     ],
     skills: ["Team leadership", "Scientific strategy", "Single-cell multi-omics", "Oncology & immunology", "Stakeholder management", "Mentorship"],
   },
@@ -47,10 +47,10 @@ const roles: Role[] = [
     summary:
       "Built the team's production analysis infrastructure and led single-cell projects across clinical and manufacturing programs.",
     bullets: [
-      "Architected and shipped automated high-throughput Nextflow/Python pipelines for scRNA-seq, CITE-seq, and multi-modal analyses — turning week-long manual workflows into reproducible runs and enabling consistent decision-making across programs.",
-      "Led single-cell analyses underpinning biomarker discovery for a clinical-stage cell therapy and process characterization for CMC, contributing directly to regulatory-grade documentation.",
-      "Established team conventions for reproducibility (containerization, version-controlled pipelines, QC standards) adopted as the default for new projects.",
-      "Acted as the go-to technical reviewer for colleagues' analyses, raising the bar on rigor and reproducibility across the group.",
+      "Built automated Nextflow/Python pipelines for scRNA-seq, CITE-seq, and multi-modal analyses, replacing manual workflows that previously took days per dataset.",
+      "Led the single-cell analyses behind biomarker discovery for a clinical-stage cell therapy and process characterisation for CMC, including work that went into regulatory documentation.",
+      "Set up the team's reproducibility conventions — containerisation, version-controlled pipelines, shared QC standards — now the default for new projects.",
+      "Reviewed colleagues' analyses as the team's main technical reviewer.",
     ],
     skills: ["Pipeline architecture", "Nextflow", "Python", "scRNA-seq / CITE-seq", "Reproducibility", "Cell therapy biomarkers", "CMC analytics"],
   },
@@ -60,12 +60,12 @@ const roles: Role[] = [
     company: "Max Delbrück Center for Molecular Medicine",
     location: "Berlin, Germany",
     summary:
-      "PhD developing and scaling open-source methods for spatial transcriptomics, adopted by labs and industry worldwide.",
+      "PhD on open-source methods for spatial transcriptomics, now used by labs in academia and industry.",
     bullets: [
-      "Designed and led Optocoder, a machine-learning pipeline for decoding barcoded transcripts from imaging-based spatial transcriptomics — published in NAR Genomics & Bioinformatics and adopted by external labs.",
-      "Re-architected novoSpaRc (optimal-transport reconstruction of tissue architecture from scRNA-seq) for scalability, unlocking application to whole-tissue datasets; co-authored Nature Protocols paper.",
+      "Designed and led Optocoder, a machine-learning pipeline for decoding barcoded transcripts from imaging-based spatial transcriptomics. Published in NAR Genomics & Bioinformatics and used by external labs.",
+      "Rewrote novoSpaRc (optimal-transport reconstruction of tissue architecture from scRNA-seq) for scale, making it usable on whole-tissue datasets. Co-authored the Nature Protocols paper.",
       "Co-inventor on a US patent for 3D spatial gene-expression reconstruction.",
-      "Owned the full research lifecycle: problem framing, method development, benchmarking, open-source release, documentation, and supporting external users.",
+      "Handled the full cycle for both tools: problem framing, method development, benchmarking, release, documentation, and user support.",
     ],
     skills: ["Method development", "Spatial transcriptomics", "Optimal transport", "Open-source ownership", "Scientific writing", "Patents"],
   },
@@ -75,9 +75,9 @@ const roles: Role[] = [
     company: "The Hebrew University of Jerusalem",
     location: "Rehovot, Israel",
     bullets: [
-      "Led an independent short-term project applying protein language models (ProtBERT) to discover novel anti-insecticidal proteins from raw sequence data — combining transfer learning with biological priors to guide downstream experimental validation.",
+      "Ran an independent short-term project applying protein language models (ProtBERT) to find candidate anti-insecticidal proteins from raw sequence data, combining transfer learning with biological priors to prioritise candidates for validation.",
     ],
-    summary: "Independent collaboration applying protein LLMs to agricultural biotech discovery.",
+    summary: "Short collaboration applying protein language models to agricultural biotech.",
     skills: ["Protein language models", "Transfer learning", "Cross-disciplinary collaboration"],
   },
   {
@@ -86,10 +86,10 @@ const roles: Role[] = [
     company: "Coriolis Pharma GmbH",
     location: "Munich, Germany",
     summary:
-      "Delivered a production-ready deep-learning system for pharmaceutical QC.",
+      "Deep-learning system for pharmaceutical quality control.",
     bullets: [
-      "Developed and shipped deep-learning models for automated particle detection and classification from flow-microscopy images used in biopharmaceutical QC.",
-      "Built an end-to-end Python/PyTorch/TensorFlow package covering data ingestion, training, evaluation, and reporting — handed off to internal scientists as a self-serve tool.",
+      "Developed deep-learning models for automated particle detection and classification from flow-microscopy images used in biopharmaceutical QC.",
+      "Packaged the whole thing — ingestion, training, evaluation, reporting — as a Python/PyTorch/TensorFlow tool that internal scientists could run themselves.",
     ],
     skills: ["Deep learning", "Computer vision", "PyTorch / TensorFlow", "Pharma QC", "Productization"],
   },
@@ -100,8 +100,8 @@ const roles: Role[] = [
     location: "Frankfurt am Main, Germany",
     summary: "Multi-omics integration for activity-dependent neuroscience.",
     bullets: [
-      "Applied supervised ML to investigate activity-dependent changes in the neuronal proteome.",
-      "Designed a multimodal integration and domain-adaptation pipeline bridging proteomic and transcriptomic datasets — foundational experience in cross-modality reasoning later applied to industry.",
+      "Applied supervised ML to activity-dependent changes in the neuronal proteome.",
+      "Built a multimodal integration and domain-adaptation pipeline linking proteomic and transcriptomic datasets — the cross-modality work I still rely on today.",
     ],
     skills: ["Multi-omics integration", "Domain adaptation", "Supervised ML"],
   },
@@ -112,8 +112,8 @@ const roles: Role[] = [
     location: "Istanbul, Turkey",
     summary: "Real-time perception for an image-guided biopsy robot.",
     bullets: [
-      "Developed real-time needle-tip localization and tracking from ultrasound imaging, enabling autonomous robotic control for image-guided biopsy.",
-      "Built a C++/CUDA software interface coupling real-time image analysis with robot control — first exposure to shipping latency-critical scientific software.",
+      "Developed real-time needle-tip localisation and tracking from ultrasound imaging for autonomous robotic control during biopsy.",
+      "Wrote the C++/CUDA interface connecting real-time image analysis to robot control.",
     ],
     skills: ["Real-time computer vision", "C++ / CUDA", "Medical robotics"],
   },
