@@ -68,8 +68,8 @@ const projects: Project[] = [
     image: novosparcImg,
     imageAlt: "novoSpaRc spatial reconstruction visualization",
     story: [
-      "Single-cell RNA-seq tells you what every cell is doing, but dissociation throws away where each cell was sitting in the tissue. novoSpaRc reconstructs that spatial structure de novo, using optimal transport to find the arrangement of cells that best explains both their expression similarity and any partial spatial reference you can provide.",
-      "I co-led the 2021 release published in Nature Protocols — focused on scalability, making the algorithm tractable on larger tissues and higher-resolution maps, and a tutorial-driven API biologists actually use. The library has grown a real community (133★, 42 forks at last check) and is taught in spatial-omics courses.",
+      "Single-cell RNA-seq tells you what each cell is doing, but dissociation destroys the information about where it sat in the tissue. novoSpaRc reconstructs that spatial structure de novo, using optimal transport to find the arrangement of cells that best explains their expression similarity plus whatever partial spatial reference is available.",
+      "I co-led the 2021 Nature Protocols release, which focused on scalability — making the algorithm tractable on larger tissues and higher-resolution maps — and on a tutorial-driven API. The library has a steady user base (133★, 42 forks) and shows up in spatial-omics course material.",
     ],
     details: [
       { label: "Method", value: "Optimal transport over expression + reference manifolds" },
@@ -92,8 +92,8 @@ const projects: Project[] = [
     image: protbertImg,
     imageAlt: "Abstract protein chain with attention pattern",
     story: [
-      "During a research visit at the Hebrew University of Jerusalem, I built a machine-learning pipeline that uses pre-trained protein language models (ProtBERT) to identify novel anti-insecticidal proteins directly from raw sequence data.",
-      "The interesting part wasn't the model — it was the integration. I combined transformer embeddings with biological domain knowledge so predictions could be interpreted by biologists and prioritised for experimental validation rather than treated as a black-box ranking.",
+      "During a research visit at the Hebrew University of Jerusalem, I built a pipeline that uses a pre-trained protein language model (ProtBERT) to find candidate anti-insecticidal proteins directly from raw sequence data.",
+      "Most of the work went into the integration rather than the model: combining transformer embeddings with biological domain knowledge so the predictions could be read and prioritised by biologists instead of coming out as a black-box ranking.",
     ],
     details: [
       { label: "Models", value: "ProtBERT (HuggingFace) + custom classification heads" },
