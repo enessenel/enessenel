@@ -111,8 +111,8 @@ const projects: Project[] = [
     image: flowimgImg,
     imageAlt: "Abstract particles in suspension",
     story: [
-      "Cell-based medicinal products must be screened for unwanted particulate impurities. Flow imaging microscopy generates thousands of particle images per sample — far too many for manual review, and too varied for classical thresholding to do reliably.",
-      "I built an end-to-end deep-learning system at Coriolis Pharma: data ingestion, training, evaluation, and a clean Python package wrapped around PyTorch/TensorFlow so scientists could retrain and audit it. The work was later published in Cytotherapy as part of a collaboration with Leiden University.",
+      "Cell-based medicinal products have to be screened for particulate impurities. Flow imaging microscopy produces thousands of particle images per sample — too many to review by hand, and too varied for classical thresholding.",
+      "At Coriolis Pharma I built the deep-learning system for it: ingestion, training, evaluation, and a Python package around PyTorch/TensorFlow so scientists could retrain and audit the models themselves. The work was published in Cytotherapy with collaborators at Leiden University.",
     ],
     details: [
       { label: "Stack", value: "Python · PyTorch · TensorFlow · classical CV preprocessing" },
@@ -130,8 +130,8 @@ const projects: Project[] = [
     image: ultrasoundImg,
     imageAlt: "Abstract ultrasound texture with trajectory line",
     story: [
-      "My first taste of research was building real-time needle-tip localization for an autonomous robotic biopsy system. The robot followed an ultrasound image stream; my algorithms tracked the needle inside that stream so the controller could keep it on target.",
-      "I wrote the C++/CUDA software interface clinicians used during testing, did the Gabor-filter work for needle detection in 2D ultrasound, and contributed to four conference and journal papers (ICRA 2016, ICRA 2017, ICAR 2015, Mechatronics 2019, plus a 2020 TJEECS paper on curved-needle localization).",
+      "My first research work was real-time needle-tip localisation for an autonomous robotic biopsy system. The robot worked off a live ultrasound stream; my algorithms tracked the needle in that stream so the controller could keep it on target.",
+      "I wrote the C++/CUDA interface used during testing, did the Gabor-filter work for needle detection in 2D ultrasound, and contributed to five papers (ICRA 2016, ICRA 2017, ICAR 2015, Mechatronics 2019, and a 2020 TJEECS paper on curved-needle localisation).",
     ],
     details: [
       { label: "Stack", value: "C++ · CUDA · OpenCV" },
