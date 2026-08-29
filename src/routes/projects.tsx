@@ -166,8 +166,8 @@ function Projects() {
     <PageShell>
       <PageHeader
         eyebrow="Projects"
-        title="The stories behind the code."
-        lead="A working portfolio of open-source bioinformatics tools, industry ML systems, and research collaborations — each with the context that gives the code meaning."
+        title="Selected projects."
+        lead="Open-source bioinformatics tools, industry ML systems, and research collaborations — with the context behind each one."
       />
 
       <section className="container-prose pb-24">
