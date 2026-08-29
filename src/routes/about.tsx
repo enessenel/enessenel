@@ -49,31 +49,30 @@ function About() {
     <PageShell>
       <PageHeader
         eyebrow="About"
-        title="A computer scientist who treats software like a research instrument."
-        lead="I'm Enes — Senior Scientist at Johnson & Johnson Innovative Medicine. I lead ML and computational biology programs in oncology and immunology, but my background spans medical robotics, computer vision, neuroscience, and open-source tools. I care about reproducibility, careful statistics, and shipping systems other people actually want to use."
+        title="Computer scientist, working in biology."
+        lead="I'm Enes, Senior Scientist at Johnson & Johnson Innovative Medicine. I lead machine learning and computational biology work in oncology and immunology. Before that: medical robotics, computer vision, neuroscience, and a PhD spent building open-source tools. I care about reproducibility and about analyses people can act on."
       />
 
       <section className="container-prose grid gap-12 pb-16 md:grid-cols-12">
         <div className="space-y-5 text-lg leading-relaxed text-foreground/90 md:col-span-7">
           <p>
-            I trained as a computer scientist in Istanbul and Munich. My first
-            research years were in a robotics lab building real-time
-            computer-vision systems for image-guided biopsy robots, then
-            deep-learning pipelines for pharmaceutical quality control, and
-            multi-omics integration in computational neuroscience.
+            I studied computer science in Istanbul and Munich. My first
+            research years were in a robotics lab, writing real-time
+            computer-vision code for image-guided biopsy robots. After that came
+            deep learning for pharmaceutical quality control and multi-omics
+            work in computational neuroscience.
           </p>
           <p>
             I moved to Berlin for a PhD in computational biology at the Max
             Delbrück Center, working on spatial transcriptomics and the
-            algorithms that let us reconstruct tissue from single-cell data —
-            shipping open-source tools used by labs and industry.
+            algorithms that reconstruct tissue structure from single-cell data.
+            Both tools I worked on are open source and still in use.
           </p>
           <p>
-            Today I lead multi-omics projects in drug discovery, mentoring
-            junior scientists and bridging computational, experimental, and
-            clinical teams. I'm equally interested in roles that lean toward
-            ML engineering, applied research leadership, or domain-bridging
-            scientific work outside biology.
+            Now I lead multi-omics projects in drug discovery, mentor junior
+            scientists, and work between computational, experimental, and
+            clinical teams. I'm open to roles that lean more toward ML
+            engineering or research leadership, in biology or elsewhere.
           </p>
         </div>
         <aside className="space-y-5 md:col-span-5">

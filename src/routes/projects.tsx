@@ -45,8 +45,8 @@ const projects: Project[] = [
     image: optocoderImg,
     imageAlt: "Abstract illustration of fluorescent bead arrays",
     story: [
-      "Optical sequencing-based spatial transcriptomics platforms (like Slide-Seq) record where every transcript came from by repeatedly imaging a slide of millions of barcoded beads. Turning those imaging cycles back into accurate barcodes is surprisingly hard — fluorescence bleeds, phasing drifts, and beads light up unevenly across cycles.",
-      "Optocoder is a Python pipeline that handles the whole decoding journey: aligning cycles, calling bases, modelling phasing/prephasing, and — when Illumina ground-truth is available — training a small ML module to push accuracy further. It was built around the realities of the Rajewsky Lab's wet-lab pipeline and is published in NAR Bioinformatics.",
+      "Optical sequencing platforms like Slide-Seq record where each transcript came from by imaging a slide of millions of barcoded beads over many cycles. Recovering the barcodes from those images is harder than it sounds: fluorescence bleeds between channels, phasing drifts, and beads light up unevenly.",
+      "Optocoder is a Python pipeline for the whole decoding step — aligning cycles, calling bases, correcting phasing and prephasing, and training a small ML model against Illumina ground truth where it exists. It was built around the Rajewsky Lab's wet-lab setup and published in NAR Bioinformatics.",
     ],
     details: [
       { label: "Stack", value: "Python · NumPy · scikit-learn · YAML configs" },
@@ -68,8 +68,8 @@ const projects: Project[] = [
     image: novosparcImg,
     imageAlt: "novoSpaRc spatial reconstruction visualization",
     story: [
-      "Single-cell RNA-seq tells you what every cell is doing, but dissociation throws away where each cell was sitting in the tissue. novoSpaRc reconstructs that spatial structure de novo, using optimal transport to find the arrangement of cells that best explains both their expression similarity and any partial spatial reference you can provide.",
-      "I co-led the 2021 release published in Nature Protocols — focused on scalability, making the algorithm tractable on larger tissues and higher-resolution maps, and a tutorial-driven API biologists actually use. The library has grown a real community (133★, 42 forks at last check) and is taught in spatial-omics courses.",
+      "Single-cell RNA-seq tells you what each cell is doing, but dissociation destroys the information about where it sat in the tissue. novoSpaRc reconstructs that spatial structure de novo, using optimal transport to find the arrangement of cells that best explains their expression similarity plus whatever partial spatial reference is available.",
+      "I co-led the 2021 Nature Protocols release, which focused on scalability — making the algorithm tractable on larger tissues and higher-resolution maps — and on a tutorial-driven API. The library has a steady user base (133★, 42 forks) and shows up in spatial-omics course material.",
     ],
     details: [
       { label: "Method", value: "Optimal transport over expression + reference manifolds" },
@@ -92,8 +92,8 @@ const projects: Project[] = [
     image: protbertImg,
     imageAlt: "Abstract protein chain with attention pattern",
     story: [
-      "During a research visit at the Hebrew University of Jerusalem, I built a machine-learning pipeline that uses pre-trained protein language models (ProtBERT) to identify novel anti-insecticidal proteins directly from raw sequence data.",
-      "The interesting part wasn't the model — it was the integration. I combined transformer embeddings with biological domain knowledge so predictions could be interpreted by biologists and prioritised for experimental validation rather than treated as a black-box ranking.",
+      "During a research visit at the Hebrew University of Jerusalem, I built a pipeline that uses a pre-trained protein language model (ProtBERT) to find candidate anti-insecticidal proteins directly from raw sequence data.",
+      "Most of the work went into the integration rather than the model: combining transformer embeddings with biological domain knowledge so the predictions could be read and prioritised by biologists instead of coming out as a black-box ranking.",
     ],
     details: [
       { label: "Models", value: "ProtBERT (HuggingFace) + custom classification heads" },
@@ -111,8 +111,8 @@ const projects: Project[] = [
     image: flowimgImg,
     imageAlt: "Abstract particles in suspension",
     story: [
-      "Cell-based medicinal products must be screened for unwanted particulate impurities. Flow imaging microscopy generates thousands of particle images per sample — far too many for manual review, and too varied for classical thresholding to do reliably.",
-      "I built an end-to-end deep-learning system at Coriolis Pharma: data ingestion, training, evaluation, and a clean Python package wrapped around PyTorch/TensorFlow so scientists could retrain and audit it. The work was later published in Cytotherapy as part of a collaboration with Leiden University.",
+      "Cell-based medicinal products have to be screened for particulate impurities. Flow imaging microscopy produces thousands of particle images per sample — too many to review by hand, and too varied for classical thresholding.",
+      "At Coriolis Pharma I built the deep-learning system for it: ingestion, training, evaluation, and a Python package around PyTorch/TensorFlow so scientists could retrain and audit the models themselves. The work was published in Cytotherapy with collaborators at Leiden University.",
     ],
     details: [
       { label: "Stack", value: "Python · PyTorch · TensorFlow · classical CV preprocessing" },
@@ -130,8 +130,8 @@ const projects: Project[] = [
     image: ultrasoundImg,
     imageAlt: "Abstract ultrasound texture with trajectory line",
     story: [
-      "My first taste of research was building real-time needle-tip localization for an autonomous robotic biopsy system. The robot followed an ultrasound image stream; my algorithms tracked the needle inside that stream so the controller could keep it on target.",
-      "I wrote the C++/CUDA software interface clinicians used during testing, did the Gabor-filter work for needle detection in 2D ultrasound, and contributed to four conference and journal papers (ICRA 2016, ICRA 2017, ICAR 2015, Mechatronics 2019, plus a 2020 TJEECS paper on curved-needle localization).",
+      "My first research work was real-time needle-tip localisation for an autonomous robotic biopsy system. The robot worked off a live ultrasound stream; my algorithms tracked the needle in that stream so the controller could keep it on target.",
+      "I wrote the C++/CUDA interface used during testing, did the Gabor-filter work for needle detection in 2D ultrasound, and contributed to five papers (ICRA 2016, ICRA 2017, ICAR 2015, Mechatronics 2019, and a 2020 TJEECS paper on curved-needle localisation).",
     ],
     details: [
       { label: "Stack", value: "C++ · CUDA · OpenCV" },
@@ -166,8 +166,8 @@ function Projects() {
     <PageShell>
       <PageHeader
         eyebrow="Projects"
-        title="The stories behind the code."
-        lead="A working portfolio of open-source bioinformatics tools, industry ML systems, and research collaborations — each with the context that gives the code meaning."
+        title="Selected projects."
+        lead="Open-source bioinformatics tools, industry ML systems, and research collaborations — with the context behind each one."
       />
 
       <section className="container-prose pb-24">
