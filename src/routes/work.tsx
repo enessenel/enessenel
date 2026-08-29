@@ -124,8 +124,8 @@ function Work() {
     <PageShell>
       <PageHeader
         eyebrow="Work"
-        title="A decade of leading computational biology."
-        lead="From robotics labs to spatial transcriptomics to clinical-stage cell therapy — building teams, methods, and pipelines that turn data into decisions."
+        title="Ten years, from robotics labs to cell therapy."
+        lead="Computer vision, spatial transcriptomics, and now single-cell multi-omics in clinical programs — building the methods and pipelines behind the decisions."
       />
 
       <section className="container-prose pb-24">

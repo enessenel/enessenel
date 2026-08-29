@@ -45,8 +45,8 @@ const projects: Project[] = [
     image: optocoderImg,
     imageAlt: "Abstract illustration of fluorescent bead arrays",
     story: [
-      "Optical sequencing-based spatial transcriptomics platforms (like Slide-Seq) record where every transcript came from by repeatedly imaging a slide of millions of barcoded beads. Turning those imaging cycles back into accurate barcodes is surprisingly hard — fluorescence bleeds, phasing drifts, and beads light up unevenly across cycles.",
-      "Optocoder is a Python pipeline that handles the whole decoding journey: aligning cycles, calling bases, modelling phasing/prephasing, and — when Illumina ground-truth is available — training a small ML module to push accuracy further. It was built around the realities of the Rajewsky Lab's wet-lab pipeline and is published in NAR Bioinformatics.",
+      "Optical sequencing platforms like Slide-Seq record where each transcript came from by imaging a slide of millions of barcoded beads over many cycles. Recovering the barcodes from those images is harder than it sounds: fluorescence bleeds between channels, phasing drifts, and beads light up unevenly.",
+      "Optocoder is a Python pipeline for the whole decoding step — aligning cycles, calling bases, correcting phasing and prephasing, and training a small ML model against Illumina ground truth where it exists. It was built around the Rajewsky Lab's wet-lab setup and published in NAR Bioinformatics.",
     ],
     details: [
       { label: "Stack", value: "Python · NumPy · scikit-learn · YAML configs" },
