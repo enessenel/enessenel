@@ -113,8 +113,8 @@ function Research() {
     <PageShell>
       <PageHeader
         eyebrow="Research"
-        title="Questions that keep me up."
-        lead="My research sits at the intersection of probabilistic modelling and modern functional genomics — with a soft spot for methods that make biology more legible."
+        title="Publications and patents."
+        lead="My work sits between probabilistic modelling and functional genomics, with a preference for methods that other people can pick up and use."
       />
 
       <section className="container-prose pb-12">
