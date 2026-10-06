@@ -72,19 +72,13 @@ function About() {
             Then came Berlin and a PhD at the Max Delbrück Center on spatial
             transcriptomics, which is about working out where cells sit in a
             tissue and what they're doing. I built Optocoder and helped build
-            novoSpaRc. It's still a good feeling when other labs email me about
-            them.
+            novoSpaRc.
           </p>
           <p>
             At J&amp;J I now spend about as much time talking with lab,
             clinical, and manufacturing colleagues as I do writing code, and I
             enjoy that more than I expected. I mentor junior scientists and
-            decide how we analyse our data. I'm interested in roles where I can
-            lead a team, whether that's in biology, ML, or robotics.
-          </p>
-          <p>
-            Outside work I'm usually somewhere in Berlin with a book, or
-            planning the next trip.
+            decide how we analyse our data.
           </p>
         </div>
         <aside className="space-y-5 md:col-span-5">
