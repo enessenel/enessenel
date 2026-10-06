@@ -32,7 +32,7 @@ const roles: Role[] = [
     summary:
       "Technical lead for single-cell multi-omics in oncology and immunology, from discovery through product development.",
     bullets: [
-      "Lead single-cell multi-omics programs (transcriptomics, proteomics, spatial) that feed target selection, mechanism-of-action work, and translational strategy for oncology and immunology assets.",
+      "Lead single-cell multi-omics programs (transcriptomics, proteomics, spatial) that feed biomarker discovery, mechanism-of-action work, and translational strategy for oncology and immunology assets.",
       "Set the analytical direction across several parallel projects: defining standards, reviewing methodology, and agreeing deliverables with clinical and discovery stakeholders.",
       "Mentor junior scientists and manage external consultants.",
       "Work with wet-lab, clinical, and CMC teams to turn analyses into experimental designs and go/no-go decisions.",
@@ -41,14 +41,14 @@ const roles: Role[] = [
   },
   {
     period: "Oct 2023 — Jul 2025",
-    role: "Data Scientist, Computational Biology",
+    role: "Postdoctoral Data Scientist, Computational Biology",
     company: "Johnson & Johnson Innovative Medicine",
     location: "Berlin, Germany",
     summary:
       "Built the team's production analysis infrastructure and led single-cell projects across clinical and manufacturing programs.",
     bullets: [
-      "Built automated Nextflow/Python pipelines for scRNA-seq, CITE-seq, and multi-modal analyses, replacing manual workflows that previously took days per dataset.",
-      "Led the single-cell analyses behind biomarker discovery for a clinical-stage cell therapy and process characterisation for CMC, including work that went into regulatory documentation.",
+      "Built automated Python pipelines for scRNA-seq, CITE-seq, and multi-modal analyses, replacing manual workflows that previously took days per dataset.",
+      "Led the single-cell analyses behind biomarker discovery for a clinical-stage cell therapy and process characterisation for CMC.",
       "Set up the team's reproducibility conventions — containerisation, version-controlled pipelines, shared QC standards — now the default for new projects.",
       "Reviewed colleagues' analyses as the team's main technical reviewer.",
     ],
@@ -62,7 +62,7 @@ const roles: Role[] = [
     summary:
       "PhD on open-source methods for spatial transcriptomics, now used by labs in academia and industry.",
     bullets: [
-      "Designed and led Optocoder, a machine-learning pipeline for decoding barcoded transcripts from imaging-based spatial transcriptomics. Published in NAR Genomics & Bioinformatics and used by external labs.",
+      "Designed and led Optocoder, a machine-learning pipeline for decoding barcoded transcripts from imaging-based spatial transcriptomics. Published in NAR Genomics & Bioinformatics.",
       "Rewrote novoSpaRc (optimal-transport reconstruction of tissue architecture from scRNA-seq) for scale, making it usable on whole-tissue datasets. Co-authored the Nature Protocols paper.",
       "Co-inventor on a US patent for 3D spatial gene-expression reconstruction.",
       "Handled the full cycle for both tools: problem framing, method development, benchmarking, release, documentation, and user support.",
@@ -101,7 +101,7 @@ const roles: Role[] = [
     summary: "Multi-omics integration for activity-dependent neuroscience.",
     bullets: [
       "Applied supervised ML to activity-dependent changes in the neuronal proteome.",
-      "Built a multimodal integration and domain-adaptation pipeline linking proteomic and transcriptomic datasets — the cross-modality work I still rely on today.",
+      "Built a multimodal integration and domain, adaptation pipeline linking proteomic and transcriptomic datasets.",
     ],
     skills: ["Multi-omics integration", "Domain adaptation", "Supervised ML"],
   },
