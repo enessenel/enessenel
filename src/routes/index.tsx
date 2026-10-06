@@ -52,11 +52,7 @@ function Home() {
               <span className="block text-muted-foreground">and machine learning.</span>
             </h1>
             <p className="mt-7 max-w-xl text-lg text-muted-foreground md:text-xl">
-              Hi, I'm Enes. I'm a Senior Scientist at Johnson &amp; Johnson in
-              Berlin, where I lead single-cell work on cancer and immune
-              therapies. I trained as a computer scientist, so most of what
-              I've done, from robotics to spatial transcriptomics, comes down
-              to machine learning on messy real-world data.
+              Hi, I'm Enes. I'm a Senior Scientist at Johnson &amp; Johnson, where I lead single-cell work on cancer and immune therapies. I trained as a computer scientist, so most of what I've done, from robotics to spatial transcriptomics, comes down to modelling messy and complicated biology data.
             </p>
             <div className="mt-9 flex flex-wrap gap-3">
               <Link
