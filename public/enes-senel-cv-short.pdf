@@ -1,99 +1,414 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Count 2
+/Kids [ 3 0 R 9 0 R ]
+/Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Length 9568
 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 773.2047 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 3 Tm /F2 20 Tf 23 TL (Enes Senel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 758.2047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 13 TL /F1 10.5 Tf .607843 .266667 .137255 rg (Senior Scientist \267 Machine Learning & Computational Biology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 744.2047 cm
+q
+BT 1 0 0 1 0 3 Tm 12 TL /F1 9 Tf .290196 .290196 .290196 rg (Berlin, Germany  ) Tj (\267) Tj (  enes.senel@proton.me  ) Tj (\267) Tj (  github.com/enessenel  ) Tj (\267) Tj (  enessenel.com) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 735.8047 cm
+q
+.4 w
+1 J
+.839216 .788235 .741176 RG
+n 0 0 m 492.5669 0 l S
+Q
+Q
+q
+1 0 0 1 51.35433 714.8047 cm
+q
+.607843 .266667 .137255 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (PROFILE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 623.3047 cm
+q
+BT 1 0 0 1 0 78 Tm 12.5 TL /F1 9.5 Tf .101961 .101961 .101961 rg (Senior computational biologist and machine-learning scientist with 10+ years designing, leading, and shipping ML) Tj T* (systems for high-stakes biomedical decisions. Technical lead for single-cell multi-omics in oncology and immunology) Tj T* (at Johnson & Johnson Innovative Medicine \227 setting analytical strategy, mentoring scientists, and translating) Tj T* (computational results into clinical and CMC decisions. PhD on machine learning for spatial transcriptomics \(Max) Tj T* (Delbr\374ck Center\), with open-source tools used in academia and industry. Earlier career spans real-time computer) Tj T* (vision for image-guided medical robotics, deep learning for pharmaceutical QC, and multi-omics integration in) Tj T* (computational neuroscience \227 a computer-science foundation that travels well across applied ML domains.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 602.3047 cm
+q
+.607843 .266667 .137255 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (CORE EXPERTISE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 573.3047 cm
+q
+BT 1 0 0 1 0 15.5 Tm 12.5 TL /F2 9.5 Tf .101961 .101961 .101961 rg (Leadership & strategy:) Tj /F1 9.5 Tf ( technical leadership, scientific strategy, mentorship, cross-functional alignment with) Tj T* (discovery, clinical, and CMC; managing external consultants and CROs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 546.3047 cm
+q
+BT 1 0 0 1 0 15.5 Tm 12.5 TL /F2 9.5 Tf .101961 .101961 .101961 rg (Computational biology:) Tj /F1 9.5 Tf ( single-cell & spatial multi-omics \(scRNA-seq, CITE-seq, ATAC, spatial\), biomarker) Tj T* (discovery, cell-therapy analytics, optimal-transport tissue reconstruction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 519.3047 cm
+q
+BT 1 0 0 1 0 15.5 Tm 12.5 TL /F2 9.5 Tf .101961 .101961 .101961 rg (Machine learning:) Tj /F1 9.5 Tf ( deep learning, computer vision, transformers and protein language models \(ProtBERT\), domain) Tj T* (adaptation, multi-modal integration, reproducible benchmarking.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 492.3047 cm
+q
+BT 1 0 0 1 0 15.5 Tm 12.5 TL /F2 9.5 Tf .101961 .101961 .101961 rg (Engineering:) Tj /F1 9.5 Tf ( Python, R, C++, CUDA, PyTorch, TensorFlow, Nextflow, Docker, SQL, Git; production-grade pipelines,) Tj T* (reproducibility tooling, regulatory-grade documentation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 477.8047 cm
+q
+BT 1 0 0 1 0 3 Tm 12.5 TL /F2 9.5 Tf .101961 .101961 .101961 rg (Adjacent domains:) Tj /F1 9.5 Tf ( medical robotics & image-guided systems, pharmaceutical QC, computational neuroscience.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 456.8047 cm
+q
+.607843 .266667 .137255 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (SELECTED EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 440.3047 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10 Tf 12.5 TL (Senior Scientist, Computational Biology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 427.8047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F3 9 Tf .290196 .290196 .290196 rg (Johnson & Johnson Innovative Medicine \267 Berlin \267 Aug 2025 \227 Present) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 399.8047 cm
+BT /F1 9 Tf 10.8 TL ET
+.607843 .266667 .137255 rg
+BT 1 0 0 1 -2 16 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 61.35433 399.8047 cm
+q
+BT 1 0 0 1 0 15.5 Tm 12.5 TL /F1 9.5 Tf .101961 .101961 .101961 rg (Technical lead for single-cell multi-omics in oncology & immunology; set analytical strategy across multiple parallel) Tj T* (discovery and translational programs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 374.8047 cm
+BT /F1 9 Tf 10.8 TL ET
+.607843 .266667 .137255 rg
+BT 1 0 0 1 -2 16 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 61.35433 374.8047 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 15.5 Tm /F1 9.5 Tf 12.5 TL (Mentor junior scientists and direct external consultants; raise the bar on rigor, reproducibility, and code quality) Tj T* (across the group.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 349.8047 cm
+BT /F1 9 Tf 10.8 TL ET
+.607843 .266667 .137255 rg
+BT 1 0 0 1 -2 16 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 61.35433 349.8047 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 15.5 Tm /F1 9.5 Tf 12.5 TL (Partner with wet-lab, clinical, and CMC stakeholders to translate ML outputs into target-selection,) Tj T* (mechanism-of-action, and go/no-go decisions on assets in development.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 333.3047 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10 Tf 12.5 TL (Data Scientist, Computational Biology) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 320.8047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F3 9 Tf .290196 .290196 .290196 rg (Johnson & Johnson Innovative Medicine \267 Berlin \267 Oct 2023 \227 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 292.8047 cm
+BT /F1 9 Tf 10.8 TL ET
+.607843 .266667 .137255 rg
+BT 1 0 0 1 -2 16 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 61.35433 292.8047 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 15.5 Tm /F1 9.5 Tf 12.5 TL -0.097143 Tw (Architected and shipped automated Nextflow/Python pipelines for scRNA-seq, CITE-seq, and multi-modal analyses) Tj T* 0 Tw (\227 turned week-long manual workflows into reproducible, audited runs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 267.8047 cm
+BT /F1 9 Tf 10.8 TL ET
+.607843 .266667 .137255 rg
+BT 1 0 0 1 -2 16 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 61.35433 267.8047 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 15.5 Tm /F1 9.5 Tf 12.5 TL (Led single-cell analyses underpinning biomarker discovery for a clinical-stage CAR-T program \(CARTITUDE\) and) Tj T* (CMC process characterization, contributing to regulatory-grade documentation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 242.8047 cm
+BT /F1 9 Tf 10.8 TL ET
+.607843 .266667 .137255 rg
+BT 1 0 0 1 -2 16 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 61.35433 242.8047 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 15.5 Tm /F1 9.5 Tf 12.5 TL (Established team conventions for reproducibility \(containerization, version-controlled pipelines, QC standards\)) Tj T* (adopted as the default for new projects.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 226.3047 cm
+q
+BT 1 0 0 1 0 2.5 Tm 12.5 TL /F2 10 Tf .101961 .101961 .101961 rg (Doctoral Researcher \227 Computational Biology & Machine Learning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 213.8047 cm
+q
+.290196 .290196 .290196 rg
+BT 1 0 0 1 0 2.5 Tm /F3 9 Tf 11.5 TL (Max Delbr\374ck Center for Molecular Medicine \267 Humboldt University of Berlin \267 Oct 2019 \227 Sep 2023) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 185.8047 cm
+BT /F1 9 Tf 10.8 TL ET
+.607843 .266667 .137255 rg
+BT 1 0 0 1 -2 16 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 61.35433 185.8047 cm
+q
+BT 1 0 0 1 0 15.5 Tm 12.5 TL /F1 9.5 Tf .101961 .101961 .101961 rg (Designed and led ) Tj /F2 9.5 Tf (Optocoder) Tj /F1 9.5 Tf (, an ML pipeline decoding barcoded transcripts from imaging-based spatial) Tj T* (transcriptomics \227 published in NAR Genomics & Bioinformatics; adopted by external labs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 160.8047 cm
+BT /F1 9 Tf 10.8 TL ET
+.607843 .266667 .137255 rg
+BT 1 0 0 1 -2 16 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 61.35433 160.8047 cm
+q
+BT 1 0 0 1 0 15.5 Tm 12.5 TL /F1 9.5 Tf .101961 .101961 .101961 rg (Re-architected ) Tj /F2 9.5 Tf (novoSpaRc) Tj /F1 9.5 Tf ( \(optimal-transport reconstruction of tissue architecture from scRNA-seq\) for scalability) Tj T* (to whole-tissue datasets; co-author on Nature Protocols paper.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 135.8047 cm
+BT /F1 9 Tf 10.8 TL ET
+.607843 .266667 .137255 rg
+BT 1 0 0 1 -2 16 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 61.35433 135.8047 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 15.5 Tm /F1 9.5 Tf 12.5 TL (Co-inventor on US patent for 3D spatial gene-expression reconstruction. Owned full lifecycle: problem framing,) Tj T* (method, benchmarking, open-source release, user support.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 119.3047 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10 Tf 12.5 TL (Visiting Scientist \227 Protein Language Models) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 106.8047 cm
+q
+.290196 .290196 .290196 rg
+BT 1 0 0 1 0 2.5 Tm /F3 9 Tf 11.5 TL (The Hebrew University of Jerusalem \267 Rehovot \267 Feb 2023 \227 Apr 2023) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 78.80472 cm
+BT /F1 9 Tf 10.8 TL ET
+.607843 .266667 .137255 rg
+BT 1 0 0 1 -2 16 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 61.35433 78.80472 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 15.5 Tm /F1 9.5 Tf 12.5 TL (Independent short-term project applying ProtBERT to discover novel anti-insecticidal proteins from raw sequence) Tj T* (data \227 combined transfer learning with biological priors to guide experimental validation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 62.30472 cm
+q
+BT 1 0 0 1 0 2.5 Tm 12.5 TL /F2 10 Tf .101961 .101961 .101961 rg (Earlier \227 Applied ML across Robotics, Pharma & Neuroscience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 49.80472 cm
+q
+.290196 .290196 .290196 rg
+BT 1 0 0 1 0 2.5 Tm /F3 9 Tf 11.5 TL (Coriolis Pharma \267 Max Planck Institute for Brain Research \267 Ozyegin Robotics Lab \267 2014 \227 2019) Tj T* ET
+Q
+Q
+ 
+
+endstream
 endobj
 5 0 obj
 <<
-/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
 >>
 endobj
 6 0 obj
 <<
-/Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/PageMode /UseNone /Pages 9 0 R /Type /Catalog
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Author (Enes Senel) /CreationDate (D:20260530121608+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260530121608+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (Curriculum Vitae) /Title (Enes Senel \204 CV \(Short\)) /Trapped /False
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 10 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3324
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2695
 >>
 stream
-Gb!#^?$"^l&q0MXR&:YO+G(k&m-C!\0ZeI[?bp8g+*\[!!@Epcb"+;Hrq^tfoRX5TX\Gbe``4_tBr7f?:S6)fCt?RdD>s8r`]d)Lqi<YA*B%1W]@Z;PkqsDU:O\hd`Kbk`j7[i&bD&Bnj)fW8gkUqPG1Snsf^.j@]fa-"G.!=QVBNBeR+%l`*1&QsN?aRi#8)gN/Xq3!dso`9?gtC?hu7>,hjq`W:7mi]c(a>??$^/"3eQki[-+`T1VgaKXE0.l^CTX4$en:Mfn1Y@Pfb7_1C%":E,R$I_6*snOc5Um%3)9#c;L6+(%Hg&O=F)M9`o`h]gMK3B99<<CX7s=c5Coqfl&Y=K@#1.g?b$M+ceO?RGD(XE;k_Lpb:qXjN2nk>,<_6KOWh]9:;rgH,ikBHb.2OEG.N,@4+m4Hle(RO5gG"G5IiZD0#:$)V9@#l(#=tNf?C8:JW"?O5E+T*Y-i`dn+)9#[-U);&g"in4188%^(lJXK?t+]R07&d]^lR4BG_\PIllWfAi2.2K7H3]0Db%dla/-E"UG@q[R)1b!'_k\)o$H-l70iZS50D.k"=NWD[ku.,lZDfERrobSQ+@dNrabMgb2K<_-7HNp4iYlgf_2A<Wf59\9EYYN0_8,q8j('OpN-psOd4^@5Y7MinR>$?$ZI2ec]A;h>/T@<j%&=I98kZrAHeKZT%La>;a.S'*M0U)g>BGfi4N<KsEfYUX!c71h:+Q&gOQO9($KRH"]Y,1;^7kA\Zm2+Ajjk,DI#g+7n)Phtq&OrkU/6qP2YenX5N2f"PkDR)6%bQG/pg2ufIAlM"nrTY#..KdMe5SuGu=:Vg.m5uu\1j?j=Fi/]0)deJ1Y%R1,kC$tfQmq[oD*&9#MFD&%.astsWDZ%!Z:+KK7db8'KTbM9N;O+)hK7D;UC%:f%+df_"/5p2iIR7dJ3?,ld+.!6jqu*?)=jW.QC7BM6Q'L<jpH![gO(1(h:'=nN`+no/GK%.;=<2pGU!jTp_9nB\2k7j<[L.>&QN-TC6e6@<#5<*6Knh;!gc(Xpg[#I`]Yl70N9,6hFAnK?\M`/4:OR1F_[TJrG"'uRuH%qhtQ0Qo]i,9dHD)O((Il_E)ossS0heL[,_Th\-@OW2#Lc5W>2!?96Y?EhpF'MZB3p!,iogZ?X&F>nr!54!/6-00KE>@fp@Pn*ehW$-%=PoJBi_4LbC3@`(u&SQLOr&U^iH93cj!8Y"AQf]toj02qh2Kp\D"!jPEj<YG_E%Q$AMI$S)fRg2(jg*TsUYVAI$?E<BX?l71ECCUgH-&*mHa8n]8aW]CAMWYggE?rM'%Pm/RGP%4W5-Wd0+1BD7M6Mp,j0"cI-%JP*cVk17G^pCZt[I]iD1(tid9g4YL&ZC'XO-UYU'ap:&'k#V(a!VsZ2f`I>r%4E54O-=I/g>q[&>`Q=C;XI^gWqtg$,bmR2_0aib\H&tOsJ*@h)GHg:qZP7m=(8%aQ<dAlJ4Q"p\"*ONH_9mH`K'7(jr;I#&;t+[t*&H]Xh&`P,lhK^0F#Jb4M4c#H$NcE.]fG/7S^FMPOPRDX/&UaE1ntaM^]/AHq^)H;iVc.kdY!^`+V*D`FgI[!f7S^[g$2rs^f<qGUAl4`5VhB)q9.h\D$H]oUYQZW33ap'4)&UCZDNnRsttbUM[hHol)Y0tgo&c>a<JYoP'J#t7sf[70Iim=0H-_*f^K27lNcpZ3HpWGmORo6)R4I??,/E]X/(I,%*ciE.`Pn"-(M`YZ=nYn.L//R%1Hn[@B6!?JU+Z\QGhNORXPp20\9`G*h7r1\^k;j6\5Ur<#,n5>aD7:OcuQtm`GgLbn-Fh>fO,SCFq.SSJ_#=(Mg8i28ac"9=VQ%>q=VukS1d9>m@Ah^[\>`=#W$$K,=MPbHl\P1?tX?^6";cBFP;X$6WR6mLG0G!NlIUnu*g!XFQ/6ZM^<>IO`Hgc)RcoX=phs\*N,7"k0GcaDL"an$S\h__BY>dcE)4Xf?XJ!9pALZnPd5Ik,0<n7r!b&$N9<B?Ka!7"*Q<IBQs3PSd<:;&C/_.;IUc@oJkVD)f"hG`i'A5:#NU%XnmU,OL+/.u3:A=d]lJDV4W;:C<ofm)?iII8sGG+_;+lVbA*[TdIDPqh>Zsi*=%1NL:.+&X(&4=uMLgF^C6l!C>b/sCg"PkQIS1sXo3nnX>Y.>',,U+\`g,3(Rs/29FYfU()moH+.(SX2`EFN^[^XK=hV!:hulY!pWdra0>eOS+r-$"XsO\=4^.FoD)Q[WLKKW5a0aNS=tY**WNQ9rQkU.02e1fC*,M)?lq(B"sHSmG.+?B/Z:.>1^OU?[N749:=)rR**!BN+m[\gUBPWoZ?!o/ID`hs:uGhWk0DG@[AS`c1N3ON@i<9*JQ/=$9FjV=I@nH.luW>3&Aa1,\eMI)H8UEO17KnnUB-q@qqcaQM8QAoDJPYDNd`F&)JKJch$FcUb,dR,7o>7bD\jN`hmMU9ip?s.h[&Os2a`n-RT&8+Am6RR46F;c)5@5'1LHZL-3FH&t<%Y[>4/,o+hKQ9?>?)IM>L0KbM(5G=Q2ZZ$DJOKu'P2"<qLeRB$sfk:->+%0p)l/fh9Vu>3I7t'.P1`r(H\O=7pPgr4o??Q7L]/Wfd<qWf-Sf!2]<s]"-:!,E&%k4?RZ/:Su!B$uGe+Vf/CX-XW?4>dB^c\+9;cMbX6nb9XHSJs$7$N3!L([HT1oB7h<]F_<ioZ`48;E:C!\o&KI?fm(%]Zd@%-^/^]I#"t"Vfri4iDa-4eL3I>0k6X]CS\t:bh182T`>IK3P;d0NYDL31MXGH5oc1)Y.09`@=&>/]m="P[t5CB;J;jFN_q71g<BA"UQ+!=Qh)?FC,9@]2)Ff5[,IE8]+K;6bYb""Y#GaaKt;G2=Y"186FkaXJ$"M5YpOglu#Pe?=XTsJQrJ!is"EQiZ;dC&96_R9bhHW&OPEbG6Y>>SL7ha%2D4\VMAT9E>DKA1l9H%SGW'8Tmrb'1MWier;\W>asY`kjeVam9WB$KfGtrqZ)42l5K-l[l$!HtZd;jlanpgF->7$6<Uo1*O()F2M_8JpOH>3p`cUBnSG)VmO-B9=d*P<AT/&Pq0h<m\nZ^M8jrrc>JmLW`+K\iTCkg@b8<9P-O\nG^^F/u-O@:TqE003tL*Do1%!ao>UZU8ih,E9;7O<=3Y\a!feI3g_Y5ifZ?)dBLKGe<QF&8[.;:ttsjFQrmWpN+O*5ae&^al$F(MQi3R4Um%PNp!T]pZB_8oJL/od12UFoq]U=;`Q4&hICY;gd!U-bBn6"LWH-MC-e''rLhUck,B*F=ia4?Q68GGKWJbf6j0>!e&\DrBO!DajJb_hi;_7QN~>endstream
+Gau`U?$"`@&q/*0kbhYGY!nHIZ>Z<gOMkACG-G6Kig2qL?t)^&b`#6:_uB@VAd/s>KtFE><O'_40jj3e\kdO26YbR=FK\82F;`Q>%j?W=`H)AJbmq_E1lgI@I1pL1G/Iq(gM+-rh[c2RX4,,#2k+@pDH3`_^00"Q[JK'W2Dq6NIeqP&g\n)*-+0s-[Q=[*Kft<7C-77Lr`b8p;#G7Dr:A4=]m[qMh;&9bh.G:,'1V]o)NPT[L&F!OafY',(]NN%/Z:Cg9#s\>\m$qT1O<k*(jp`.+872/0#'u1oMUo":Pfh)M_m+C^`0,?QU/WZ.R^Na^".r$f]?uk99h'c`OsPqIE:L7nL`"^,$#SL1W.\DXc8Jm,Ee!q/&N#FA3lr_dQLCC.u^`l4qHQ"OqfFkQh*3l9oLpTk(2[[R:Cg,Wk^_AA_)50j6+,RFaCfU^R\k1_r$,qUUuI"aciXjr%X(T#:[ltb_SOH,1/6XG,Qu,F-+_48/IT/;G"dn'G-gu;68-$&uBSTV9CX<N@#Xo-a92EBdM;.9dZ6#Pghb8A]cc:etb:SdQ'f%g>N$CR0i1K#3VnL2JPr)'_>gJCRmE]-_`1RpOF>Ugs3`#&Jq"QK!sG&CC[^c.VI132Qk`W'A1tLf\9%A^ruj)E_Zf$Bu]\RUeChRn_NfH+Y@uFLsM@1$(NMB:gj>)pk,Q9/U4LuKT2t!OJN._p2T_O)ZKHb]A^Y@5`)SX(3Y!>g?uZfB'Er:W%\Rp7NZ0;W8q1eME_K__KKKJb7M,UJ`&#;X5S/><Zc]H*)+[l_NQ:`"pM)XI!Z"j^%;45"io"!G!*m4(-%.<0l1'g)WT5_E"HC4hAgP-@G,M4K)E5lF4@"Zbfe-gN1aCA:gpn:s-7R?BV2;P-F;4K6Qr&3dPe8hS1_>R3LBjJX:U>82H,\(IKsUAjAlolR+2;R;:LJL+G>4pTsQq1I!^P:h;0=,IuWu^k'aNm*m]&&#[SeSJDDrMUi?21ddTh^DjRkO]rc;"9RJc;$q<(a:U'dqAk^n-FbHT^k`do2rY%r6K(-\'1V2"h'sfBjm>PdAHUh0Om5jY7+#!BKlgZYMO6H9\^3b\)O*H7WkEMQZL\+H24eh^j&%Cu6U2KuTljQ2kdY+*d9V!/@M@s-AZq$3S-l90aj\$&-P7^u"S//cq!?smNmBk1$3iC(sFHf%5qu&nE^,!7VQFn=g[n?E:ZYtti':IPsDkI)'D/$DB$?_[+QU3mZqiXYe$n"qm0A'`gqTI3i+C2U28Q2I&&m,f?=NYKTce(oqn9,HA-<FCgFU?m0e^fZD5T^)+qts9L]df0$o?8Z:Mj1OQXNO;S)hoc*JCd?U6mBk+J-O+D^5="%iuk^30PBYWnTST1ZFbh]Ah^'B]^U'm^M6<4fqJHd-thq_A#!YS/W]2YbZ)CX%YYXP1HVoia3>%%1P]`jc&sSXY.a#K,J33G0%/S&:0sJ$r(t`-)YT6`g@3TD`B>\kZ.EJMnLTG:S+#u2"C.sD)7cG;E>s7\ESu\BhE'A_k@^nt$dHeL[&Hr^l"ru&1+?tU8=GKlG"Rb4oYj:h;qQsV7(CfY36V7QXdrbs*idN)8Mf<_.i&k7Y^Pq#/f&-COPq,LXF_U"2u(JQD92J]Q9JM[::C=FV4RU:_ARcl62g4C9<-aYnP*tPq_0%Nl#(hE47^?&Bqj':#j\O6Eta<6OtC4J'I?9:jLm*58k<7bl?*P1%HNP!Z^St"h$G0n_CEOUg:!ofHH(hM`iO2ueno75>0U(qN%RGS=4I"J,jG/\=M+Kq1GiS9j/P\'<0kO>1&n]HBrr/cpB%7Z(rPks'o?6H;9aL3T)V$*%kgZdHnB,hWgj^8MsXn',c+K&E&Ipg94@8kXE;$;-H1L/KY9Gi%IDL@,Ws7`H8>g`s(Y1Y`G5q8a`d,m8l4us;kLp'<O/$3/ZOr?JhG_ob+665Egus%gT0lWdFGse:(4=SN6C`Jp(o.c,nfinQ%Fo:F2><H!SFU6bU=d=I(DemD#4&_JA_'?lalVADe0kn,.-hZ-3Kf\P;$co5r?pG]LE$ud.Z$;&a8tuHYC`m@OhL9Q*#DBjjYYA;gbuOk8oCiYBs_0Y7@tT#bV8R:@%%hVkr87_s=bcFiiAZqRpgAEQV#e>m'nsQUW>UbG-"kH=\>WmW;4(qL<l2`,nG7e#St!']7>hipgDs`,gUfP?m>KK0-U!@o),WYuNT,\YW0!.(h3Lr]o-2`abda0Dt'l%"!TIjYO0?A>QC5UAoG>/n,c.PX5rgTqad6mTQMd"ee'&h<mL4M#6FGQ=39/N4$DUSL^"IHTC7>*_cqj#K;h\A9!9l6l2t46-nu(VkN:Z&m;6DR+_i<ie.Zd-A=VLTP'%s)J0#PmmYVAAeOH&ZjdLV/NbVt^c8(=L?YS8n0M_lcj`nK4Hlg%([*L#UVh'I-];@Gr)Osl>BV2['jjq.4"XP_1hDooUrn*[HQ7OK?P6\mad)^t![,iW=ZZRPni(f).btnC'-QAA]>+ZFNCC-&aOY=keJ-n#f!OPjQHV6HJedj,A`q`!ZN4\]W]S0f?95K,mW*ZD4-+*#UX$%LUX#jVBHh:D[/hD8[V4Je_"PJmd/Lc&Ajp.3s3GN7SblWZPbWVfV01t-NV'>9/PGSJ)mt3m?W_pM(EBrCZqVJ3Pmt9R4Wt3:[a,*('Zj:^p9(\h?5?j)IjU*1r"luPK>.~>
+endstream
 endobj
 11 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2695
+/Author (Enes Senel)
+/CreationDate (D\07220260530121608\05300\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260530121608\05300\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (Curriculum Vitae)
+/Title (Enes Senel \204 CV \050Short\051)
+/Trapped /False
 >>
-stream
-Gau`U?$"`@&q/*0kbhYGY!nHIZ>Z<gOMkACG-G6Kig2qL?t)^&b`#6:_uB@VAd/s>KtFE><O'_40jj3e\kdO26YbR=FK\82F;`Q>%j?W=`H)AJbmq_E1lgI@I1pL1G/Iq(gM+-rh[c2RX4,,#2k+@pDH3`_^00"Q[JK'W2Dq6NIeqP&g\n)*-+0s-[Q=[*Kft<7C-77Lr`b8p;#G7Dr:A4=]m[qMh;&9bh.G:,'1V]o)NPT[L&F!OafY',(]NN%/Z:Cg9#s\>\m$qT1O<k*(jp`.+872/0#'u1oMUo":Pfh)M_m+C^`0,?QU/WZ.R^Na^".r$f]?uk99h'c`OsPqIE:L7nL`"^,$#SL1W.\DXc8Jm,Ee!q/&N#FA3lr_dQLCC.u^`l4qHQ"OqfFkQh*3l9oLpTk(2[[R:Cg,Wk^_AA_)50j6+,RFaCfU^R\k1_r$,qUUuI"aciXjr%X(T#:[ltb_SOH,1/6XG,Qu,F-+_48/IT/;G"dn'G-gu;68-$&uBSTV9CX<N@#Xo-a92EBdM;.9dZ6#Pghb8A]cc:etb:SdQ'f%g>N$CR0i1K#3VnL2JPr)'_>gJCRmE]-_`1RpOF>Ugs3`#&Jq"QK!sG&CC[^c.VI132Qk`W'A1tLf\9%A^ruj)E_Zf$Bu]\RUeChRn_NfH+Y@uFLsM@1$(NMB:gj>)pk,Q9/U4LuKT2t!OJN._p2T_O)ZKHb]A^Y@5`)SX(3Y!>g?uZfB'Er:W%\Rp7NZ0;W8q1eME_K__KKKJb7M,UJ`&#;X5S/><Zc]H*)+[l_NQ:`"pM)XI!Z"j^%;45"io"!G!*m4(-%.<0l1'g)WT5_E"HC4hAgP-@G,M4K)E5lF4@"Zbfe-gN1aCA:gpn:s-7R?BV2;P-F;4K6Qr&3dPe8hS1_>R3LBjJX:U>82H,\(IKsUAjAlolR+2;R;:LJL+G>4pTsQq1I!^P:h;0=,IuWu^k'aNm*m]&&#[SeSJDDrMUi?21ddTh^DjRkO]rc;"9RJc;$q<(a:U'dqAk^n-FbHT^k`do2rY%r6K(-\'1V2"h'sfBjm>PdAHUh0Om5jY7+#!BKlgZYMO6H9\^3b\)O*H7WkEMQZL\+H24eh^j&%Cu6U2KuTljQ2kdY+*d9V!/@M@s-AZq$3S-l90aj\$&-P7^u"S//cq!?smNmBk1$3iC(sFHf%5qu&nE^,!7VQFn=g[n?E:ZYtti':IPsDkI)'D/$DB$?_[+QU3mZqiXYe$n"qm0A'`gqTI3i+C2U28Q2I&&m,f?=NYKTce(oqn9,HA-<FCgFU?m0e^fZD5T^)+qts9L]df0$o?8Z:Mj1OQXNO;S)hoc*JCd?U6mBk+J-O+D^5="%iuk^30PBYWnTST1ZFbh]Ah^'B]^U'm^M6<4fqJHd-thq_A#!YS/W]2YbZ)CX%YYXP1HVoia3>%%1P]`jc&sSXY.a#K,J33G0%/S&:0sJ$r(t`-)YT6`g@3TD`B>\kZ.EJMnLTG:S+#u2"C.sD)7cG;E>s7\ESu\BhE'A_k@^nt$dHeL[&Hr^l"ru&1+?tU8=GKlG"Rb4oYj:h;qQsV7(CfY36V7QXdrbs*idN)8Mf<_.i&k7Y^Pq#/f&-COPq,LXF_U"2u(JQD92J]Q9JM[::C=FV4RU:_ARcl62g4C9<-aYnP*tPq_0%Nl#(hE47^?&Bqj':#j\O6Eta<6OtC4J'I?9:jLm*58k<7bl?*P1%HNP!Z^St"h$G0n_CEOUg:!ofHH(hM`iO2ueno75>0U(qN%RGS=4I"J,jG/\=M+Kq1GiS9j/P\'<0kO>1&n]HBrr/cpB%7Z(rPks'o?6H;9aL3T)V$*%kgZdHnB,hWgj^8MsXn',c+K&E&Ipg94@8kXE;$;-H1L/KY9Gi%IDL@,Ws7`H8>g`s(Y1Y`G5q8a`d,m8l4us;kLp'<O/$3/ZOr?JhG_ob+665Egus%gT0lWdFGse:(4=SN6C`Jp(o.c,nfinQ%Fo:F2><H!SFU6bU=d=I(DemD#4&_JA_'?lalVADe0kn,.-hZ-3Kf\P;$co5r?pG]LE$ud.Z$;&a8tuHYC`m@OhL9Q*#DBjjYYA;gbuOk8oCiYBs_0Y7@tT#bV8R:@%%hVkr87_s=bcFiiAZqRpgAEQV#e>m'nsQUW>UbG-"kH=\>WmW;4(qL<l2`,nG7e#St!']7>hipgDs`,gUfP?m>KK0-U!@o),WYuNT,\YW0!.(h3Lr]o-2`abda0Dt'l%"!TIjYO0?A>QC5UAoG>/n,c.PX5rgTqad6mTQMd"ee'&h<mL4M#6FGQ=39/N4$DUSL^"IHTC7>*_cqj#K;h\A9!9l6l2t46-nu(VkN:Z&m;6DR+_i<ie.Zd-A=VLTP'%s)J0#PmmYVAAeOH&ZjdLV/NbVt^c8(=L?YS8n0M_lcj`nK4Hlg%([*L#UVh'I-];@Gr)Osl>BV2['jjq.4"XP_1hDooUrn*[HQ7OK?P6\mad)^t![,iW=ZZRPni(f).btnC'-QAA]>+ZFNCC-&aOY=keJ-n#f!OPjQHV6HJedj,A`q`!ZN4\]W]S0f?95K,mW*ZD4-+*#UX$%LUX#jVBHh:D[/hD8[V4Je_"PJmd/Lc&Ajp.3s3GN7SblWZPbWVfV01t-NV'>9/PGSJ)mt3m?W_pM(EBrCZqVJ3Pmt9R4Wt3:[a,*('Zj:^p9(\h?5?j)IjU*1r"luPK>.~>endstream
 endobj
 xref
 0 12
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000331 00000 n 
-0000000446 00000 n 
-0000000650 00000 n 
-0000000854 00000 n 
-0000000922 00000 n 
-0000001215 00000 n 
-0000001280 00000 n 
-0000004696 00000 n 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000148 00000 n 
+0000000347 00000 n 
+0000009967 00000 n 
+0000010018 00000 n 
+0000010125 00000 n 
+0000010237 00000 n 
+0000010352 00000 n 
+0000010552 00000 n 
+0000013340 00000 n 
 trailer
 <<
-/ID 
-[<2b07a981d03cfa85b5008885a1ee22a8><2b07a981d03cfa85b5008885a1ee22a8>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 8 0 R
-/Root 7 0 R
 /Size 12
+/Root 1 0 R
+/Info 11 0 R
+/ID [ <2b07a981d03cfa85b5008885a1ee22a8> <2b07a981d03cfa85b5008885a1ee22a8> ]
 >>
 startxref
-7483
+13670
 %%EOF
