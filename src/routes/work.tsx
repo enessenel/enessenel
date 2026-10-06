@@ -64,10 +64,11 @@ const roles: Role[] = [
     bullets: [
       "Designed and led Optocoder, a machine-learning pipeline for decoding barcoded transcripts from imaging-based spatial transcriptomics. Published in NAR Genomics & Bioinformatics.",
       "Rewrote novoSpaRc (optimal-transport reconstruction of tissue architecture from scRNA-seq) for scale, making it usable on whole-tissue datasets. Co-authored the Nature Protocols paper.",
+      "Applied graph neural networks to spatial omics data, modelling cells as graphs over tissue structure to capture neighbourhood effects that expression-only models miss.",
       "Co-inventor on a US patent for 3D spatial gene-expression reconstruction.",
       "Handled the full cycle for both tools: problem framing, method development, benchmarking, release, documentation, and user support.",
     ],
-    skills: ["Method development", "Spatial transcriptomics", "Optimal transport", "Open-source ownership", "Scientific writing", "Patents"],
+    skills: ["Method development", "Spatial transcriptomics", "Graph neural networks", "Optimal transport", "Open-source ownership", "Scientific writing", "Patents"],
   },
   {
     period: "Feb 2023 — Apr 2023",

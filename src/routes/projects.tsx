@@ -5,13 +5,12 @@ import novosparcImg from "@/assets/proj-novosparc.png";
 import protbertImg from "@/assets/proj-protbert.jpg";
 import flowimgImg from "@/assets/proj-flowimg.jpg";
 import ultrasoundImg from "@/assets/proj-ultrasound.jpg";
-import cartitudeImg from "@/assets/proj-cartitude.jpg";
 
 export const Route = createFileRoute("/projects")({
   head: () => ({
     meta: [
       { title: "Projects — Enes Senel" },
-      { name: "description", content: "In-depth project stories from Enes Senel: Optocoder, novoSpaRc, ProtBERT for anti-insecticidal proteins, flow-imaging deep learning, ultrasound needle tracking, and CARTITUDE-1 biomarker analysis." },
+      { name: "description", content: "In-depth project stories from Enes Senel: Optocoder, novoSpaRc, ProtBERT for anti-insecticidal proteins, flow-imaging deep learning, and ultrasound needle tracking." },
       { property: "og:title", content: "Projects — Enes Senel" },
       { property: "og:description", content: "Stories behind the open-source tools and research projects." },
     ],
@@ -139,25 +138,6 @@ const projects: Project[] = [
       { label: "Publications", value: "ICRA × 2, ICAR, Mechatronics, TJEECS" },
     ],
     tags: ["Medical robotics", "Computer vision", "Real-time systems"],
-  },
-  {
-    slug: "cartitude",
-    name: "CARTITUDE-1 biomarker analysis",
-    tagline: "Single-cell signals behind a CAR-T response.",
-    period: "2024 — 2025",
-    role: "Data Scientist → Senior Scientist, J&J Innovative Medicine",
-    image: cartitudeImg,
-    imageAlt: "Abstract single-cell clustering visualization",
-    story: [
-      "CARTITUDE-1 is the phase 1b/2 study of ciltacabtagene autoleucel (cilta-cel) in relapsed/refractory multiple myeloma. I contributed to the biomarker work — integrating single-cell transcriptomic, proteomic, and clinical readouts to understand which patients respond and why.",
-      "The collaboration spans clinical, translational, and manufacturing teams; the manuscript is currently under revision at Blood Cancer Discovery.",
-    ],
-    details: [
-      { label: "Modalities", value: "scRNA-seq · CITE-seq · clinical metadata" },
-      { label: "Pipelines", value: "Python · Nextflow · scanpy/scvi-tools" },
-      { label: "Status", value: "Manuscript under revision — Blood Cancer Discovery" },
-    ],
-    tags: ["Single-cell", "Multi-omics", "Cell therapy", "Clinical"],
   },
 ];
 
