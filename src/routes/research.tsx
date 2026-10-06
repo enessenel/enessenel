@@ -31,6 +31,26 @@ type Pub = {
 
 const papers: Pub[] = [
   {
+    year: "2026",
+    title:
+      "Benchmarking single-cell foundation models for real-world RNA-seq data integration",
+    authors:
+      "S. Han, T. Sztanka-Toth, E. Senel, A. Elnaggar, J. Patel, T. Mansi, D. Smirnov, J. Greshock, A. Javidi",
+    venue: "bioRxiv",
+    status: "Preprint",
+    href: "https://www.biorxiv.org/content/10.64898/2026.04.17.719314v1",
+  },
+  {
+    year: "2026",
+    title:
+      "Benchmarking Next-Generation Sequencing Platforms: A Comprehensive Comparison of Single-Cell RNA-Seq from Ultima UG 100 vs. Illumina NovaSeq X Plus",
+    authors:
+      "R. Xiong, J. Patel, T. Sztanka-Toth, E. Senel, K. Calara-Nielsen, Y. Rajpurohit, T. Altenburg, J. Greshock, D. Smirnov, A. Javidi",
+    venue: "bioRxiv",
+    status: "Preprint",
+    href: "https://www.biorxiv.org/content/10.64898/2026.01.16.699571v1",
+  },
+  {
     year: "2025",
     title:
       "Ciltacabtagene autoleucel biomarkers of response in relapsed/refractory multiple myeloma patients from CARTITUDE-1: a phase 1b/2 study",
