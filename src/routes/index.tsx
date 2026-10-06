@@ -16,19 +16,19 @@ export const Route = createFileRoute("/")({
 
 const highlights = [
   {
-    eyebrow: "Focus",
-    title: "Single-cell multi-omics for therapeutics",
-    body: "Technical lead at J&J Innovative Medicine. I set the analytical approach for oncology and immunology programs, mentor scientists, and make sure the results are usable by clinical and CMC teams.",
+    eyebrow: "Now",
+    title: "Single-cell multi-omics at J&J",
+    body: "I lead the analysis side of oncology and immunology programs. A lot of my job is making sure clinical and CMC teams can actually use the results, not just read them.",
   },
   {
-    eyebrow: "Methods",
-    title: "Open-source tools other labs use",
-    body: "PhD on machine learning for spatial transcriptomics at the Max Delbrück Center. Author of Optocoder, co-first author on novoSpaRc, co-inventor on a US patent.",
+    eyebrow: "PhD",
+    title: "Tools that other labs use",
+    body: "At the Max Delbrück Center I worked on machine learning for spatial transcriptomics. I wrote Optocoder, co-led novoSpaRc, and I'm a co-inventor on a US patent.",
   },
   {
-    eyebrow: "Background",
-    title: "Computer science first",
-    body: "CS degrees in Istanbul and Munich. Before biology: real-time computer vision for image-guided biopsy robots and deep learning for pharmaceutical QC.",
+    eyebrow: "Before that",
+    title: "Robots and computer vision",
+    body: "I started in computer science. My first projects were vision software for biopsy robots, followed by deep learning for pharmaceutical quality control.",
   },
 ];
 
@@ -52,10 +52,11 @@ function Home() {
               <span className="block text-muted-foreground">and machine learning.</span>
             </h1>
             <p className="mt-7 max-w-xl text-lg text-muted-foreground md:text-xl">
-              Senior Scientist at Johnson &amp; Johnson Innovative Medicine,
-              where I lead single-cell multi-omics work in oncology and
-              immunology. Ten years of machine learning before and around that —
-              spatial transcriptomics, pharmaceutical QC, medical robotics.
+              Hi, I'm Enes. I'm a Senior Scientist at Johnson &amp; Johnson in
+              Berlin, where I lead single-cell work on cancer and immune
+              therapies. I trained as a computer scientist, so most of what
+              I've done, from robotics to spatial transcriptomics, comes down
+              to machine learning on messy real-world data.
             </p>
             <div className="mt-9 flex flex-wrap gap-3">
               <Link

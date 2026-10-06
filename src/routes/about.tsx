@@ -49,30 +49,42 @@ function About() {
     <PageShell>
       <PageHeader
         eyebrow="About"
-        title="Computer scientist, working in biology."
-        lead="I'm Enes, Senior Scientist at Johnson & Johnson Innovative Medicine. I lead machine learning and computational biology work in oncology and immunology. Before that: medical robotics, computer vision, neuroscience, and a PhD spent building open-source tools. I care about reproducibility and about analyses people can act on."
+        title="Hi, I'm Enes."
+        lead="I'm a computer scientist who ended up in biology, and I've stayed because the problems keep getting more interesting. These days I'm a Senior Scientist at Johnson & Johnson, leading single-cell work in oncology and immunology."
       />
 
       <section className="container-prose grid gap-12 pb-16 md:grid-cols-12">
         <div className="space-y-5 text-lg leading-relaxed text-foreground/90 md:col-span-7">
           <p>
-            I studied computer science in Istanbul and Munich. My first
-            research years were in a robotics lab, writing real-time
-            computer-vision code for image-guided biopsy robots. After that came
-            deep learning for pharmaceutical quality control and multi-omics
-            work in computational neuroscience.
+            I grew up in Turkey and studied computer science in Istanbul. My
+            first real research job was in a robotics lab, writing the
+            computer-vision code that let a robot follow an ultrasound image
+            during a biopsy. Seeing my code move something physical got me
+            hooked on research.
           </p>
           <p>
-            I moved to Berlin for a PhD in computational biology at the Max
-            Delbrück Center, working on spatial transcriptomics and the
-            algorithms that reconstruct tissue structure from single-cell data.
-            Both tools I worked on are open source and still in use.
+            For my master's I moved to Munich. On the side I worked on deep
+            learning for pharmaceutical quality control and on proteomics data
+            in a neuroscience lab. That was the point where biology stopped
+            being a side interest.
           </p>
           <p>
-            Now I lead multi-omics projects in drug discovery, mentor junior
-            scientists, and work between computational, experimental, and
-            clinical teams. I'm open to roles that lean more toward ML
-            engineering or research leadership, in biology or elsewhere.
+            Then came Berlin and a PhD at the Max Delbrück Center on spatial
+            transcriptomics, which is about working out where cells sit in a
+            tissue and what they're doing. I built Optocoder and helped build
+            novoSpaRc. It's still a good feeling when other labs email me about
+            them.
+          </p>
+          <p>
+            At J&amp;J I now spend about as much time talking with lab,
+            clinical, and manufacturing colleagues as I do writing code, and I
+            enjoy that more than I expected. I mentor junior scientists and
+            decide how we analyse our data. I'm interested in roles where I can
+            lead a team, whether that's in biology, ML, or robotics.
+          </p>
+          <p>
+            Outside work I'm usually somewhere in Berlin with a book, or
+            planning the next trip.
           </p>
         </div>
         <aside className="space-y-5 md:col-span-5">
