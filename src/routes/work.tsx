@@ -68,7 +68,7 @@ const roles: Role[] = [
       "Co-inventor on a US patent for 3D spatial gene-expression reconstruction.",
       "Handled the full cycle for both tools: problem framing, method development, benchmarking, release, documentation, and user support.",
     ],
-    skills: ["Method development", "Spatial transcriptomics", "Optimal transport", "Open-source ownership", "Scientific writing", "Patents"],
+    skills: ["Method development", "Spatial transcriptomics", "Graph neural networks", "Optimal transport", "Open-source ownership", "Scientific writing", "Patents"],
   },
   {
     period: "Feb 2023 — Apr 2023",
