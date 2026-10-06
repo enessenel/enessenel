@@ -34,7 +34,7 @@ const roles: Role[] = [
     bullets: [
       "Lead single-cell multi-omics programs (transcriptomics, proteomics, spatial) that feed target selection, mechanism-of-action work, and translational strategy for oncology and immunology assets.",
       "Set the analytical direction across several parallel projects: defining standards, reviewing methodology, and agreeing deliverables with clinical and discovery stakeholders.",
-      "Mentor junior scientists and manage external consultants, mostly through code review, design discussions, and onboarding.",
+      "Mentor junior scientists and manage external consultants.",
       "Work with wet-lab, clinical, and CMC teams to turn analyses into experimental designs and go/no-go decisions.",
     ],
     skills: ["Team leadership", "Scientific strategy", "Single-cell multi-omics", "Oncology & immunology", "Stakeholder management", "Mentorship"],
