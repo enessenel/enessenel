@@ -23,7 +23,7 @@ const highlights = [
   {
     eyebrow: "PhD",
     title: "Tools that other labs use",
-    body: "At the Max Delbrück Center I worked on machine learning for spatial transcriptomics. I wrote Optocoder, co-led novoSpaRc, and I'm a co-inventor on a US patent.",
+    body: "At the Max Delbrück Center I worked on machine learning for spatial transcriptomics.",
   },
   {
     eyebrow: "Before that",
