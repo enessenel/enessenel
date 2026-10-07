@@ -1,481 +1,139 @@
-%PDF-1.3
-%âãÏÓ
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/PageMode /UseNone
-/Pages 2 0 R
-/Type /Catalog
+/F1 2 0 R /F2 3 0 R /F3 9 0 R
 >>
 endobj
 2 0 obj
 <<
-/Count 4
-/Kids [ 3 0 R 12 0 R 14 0 R 18 0 R ]
-/Type /Pages
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R ]
-/Contents 7 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Parent 2 0 R
-/Resources <<
-/Font 8 0 R
-/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
 /A <<
-/S /URI
-/Type /Action
-/URI (mailto\072enes\056senel\100proton\056me)
->>
-/Border [ 0 0 0 ]
-/Rect [ 138.8566 732.1354 237.2101 743.5354 ]
-/Subtype /Link
-/Type /Annot
+/S /URI /Type /Action /URI (mailto:enessenel@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 119.8473 729.0047 205.9438 739.2047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057github\056com\057enessenel)
->>
-/Border [ 0 0 0 ]
-/Rect [ 250.4151 732.1354 342.8216 743.5354 ]
-/Subtype /Link
-/Type /Annot
+/S /URI /Type /Action /URI (https://enessenel.com)
+>> /Border [ 0 0 0 ] /Rect [ 213.0328 729.0047 270.1953 739.2047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057enessenel\056com)
->>
-/Border [ 0 0 0 ]
-/Rect [ 356.0266 732.1354 450.5516 743.5354 ]
-/Subtype /Link
-/Type /Annot
+/S /URI /Type /Action /URI (https://www.linkedin.com/in/enes-senel)
+>> /Border [ 0 0 0 ] /Rect [ 277.2843 729.0047 377.4313 739.2047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 7 0 obj
 <<
-/Length 6204
+/A <<
+/S /URI /Type /Action /URI (https://github.com/enessenel)
+>> /Border [ 0 0 0 ] /Rect [ 384.5203 729.0047 467.1998 739.2047 ] /Subtype /Link /Type /Annot
 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 57.02362 764.5354 cm
-q
-.101961 .101961 .101961 rg
-BT 1 0 0 1 0 4 Tm /F2 22 Tf 26 TL (Enes Senel) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 747.5354 cm
-q
-.607843 .266667 .137255 rg
-BT 1 0 0 1 0 3.5 Tm /F1 11.5 Tf 15 TL (Senior Scientist \267 Computational Biology) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 730.5354 cm
-q
-BT 1 0 0 1 0 3.5 Tm 13 TL /F1 9.5 Tf .352941 .333333 .313725 rg (Berlin, Germany  ) Tj (\267) Tj (  ) Tj .607843 .266667 .137255 rg (enes.senel@proton.me) Tj .352941 .333333 .313725 rg (  ) Tj (\267) Tj (  ) Tj .607843 .266667 .137255 rg (github.com/enessenel) Tj .352941 .333333 .313725 rg (  ) Tj (\267) Tj (  ) Tj .607843 .266667 .137255 rg (enessenel.com) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 716.5354 cm
-Q
-q
-1 0 0 1 57.02362 692.5354 cm
-q
-.607843 .266667 .137255 rg
-BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (SUMMARY) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 687.9354 cm
-q
-.6 w
-1 J
-.901961 .87451 .835294 RG
-n 0 0 m 481.2283 0 l S
-Q
-Q
-q
-1 0 0 1 57.02362 602.9354 cm
-q
-BT 1 0 0 1 0 71 Tm 13.5 TL /F1 10 Tf .101961 .101961 .101961 rg (Senior Scientist with a decade of experience leading computational biology, single-cell multi-omics, and) Tj T* (machine-learning programs across pharma, academia, and medical robotics. Currently leading multi-omics) Tj T* (strategy in oncology and immunology at Johnson & Johnson Innovative Medicine. Co-author of widely used) Tj T* (open-source tools \(novoSpaRc, Optocoder\), co-inventor on a US patent, and published in Nature Protocols) Tj T* (and NAR Genomics & Bioinformatics. Strengths: technical leadership, reproducible production pipelines,) Tj T* (cross-functional translation from data to therapeutic decisions, and mentoring scientists.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 596.9354 cm
-Q
-q
-1 0 0 1 57.02362 572.9354 cm
-q
-.607843 .266667 .137255 rg
-BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (CORE SKILLS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 568.3354 cm
-q
-.6 w
-1 J
-.901961 .87451 .835294 RG
-n 0 0 m 481.2283 0 l S
-Q
-Q
-q
-1 0 0 1 57.02362 537.3354 cm
-q
-BT 1 0 0 1 0 17 Tm 13.5 TL /F2 10 Tf .101961 .101961 .101961 rg (Leadership:) Tj /F1 10 Tf ( Technical leadership, scientific strategy, mentorship, stakeholder management,) Tj T* (cross-functional collaboration) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 533.3354 cm
-Q
-q
-1 0 0 1 57.02362 506.3354 cm
-q
-BT 1 0 0 1 0 17 Tm 13.5 TL /F2 10 Tf .101961 .101961 .101961 rg (Computational Biology:) Tj /F1 10 Tf ( Single-cell RNA-seq, CITE-seq, spatial transcriptomics, multi-omics integration,) Tj T* (cell\226cell interactions, biomarker discovery) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 502.3354 cm
-Q
-q
-1 0 0 1 57.02362 475.3354 cm
-q
-BT 1 0 0 1 0 17 Tm 13.5 TL /F2 10 Tf .101961 .101961 .101961 rg (Machine Learning:) Tj /F1 10 Tf ( Deep learning, optimal transport, protein language models \(ProtBERT\), domain) Tj T* (adaptation, computer vision) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 471.3354 cm
-Q
-q
-1 0 0 1 57.02362 444.3354 cm
-q
-BT 1 0 0 1 0 17 Tm 13.5 TL /F2 10 Tf .101961 .101961 .101961 rg (Engineering:) Tj /F1 10 Tf ( Python, R, C++, CUDA, PyTorch, TensorFlow, Nextflow, scanpy, SQL, Docker, reproducible) Tj T* (pipelines) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 440.3354 cm
-Q
-q
-1 0 0 1 57.02362 426.8354 cm
-q
-BT 1 0 0 1 0 3.5 Tm 13.5 TL /F2 10 Tf .101961 .101961 .101961 rg (Domain:) Tj /F1 10 Tf ( Oncology, immunology, cell therapy, CMC analytics, pharma QC, medical robotics, neuroscience) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 422.8354 cm
-Q
-q
-1 0 0 1 57.02362 418.8354 cm
-Q
-q
-1 0 0 1 57.02362 394.8354 cm
-q
-.607843 .266667 .137255 rg
-BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (PROFESSIONAL EXPERIENCE) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 390.2354 cm
-q
-.6 w
-1 J
-.901961 .87451 .835294 RG
-n 0 0 m 481.2283 0 l S
-Q
-Q
-q
-1 0 0 1 57.02362 373.2354 cm
-q
-.101961 .101961 .101961 rg
-BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (Senior Scientist, Computational Biology) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 361.2354 cm
-q
-BT 1 0 0 1 0 2.5 Tm 12 TL /F3 9.5 Tf .352941 .333333 .313725 rg (Johnson & Johnson Innovative Medicine  ) Tj (\267) Tj (  Berlin, Germany  ) Tj (\267) Tj (  Aug 2025 \227 Present) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 331.2354 cm
-q
-.101961 .101961 .101961 rg
-BT 1 0 0 1 0 17 Tm /F1 10 Tf 13.5 TL (Technical lead for single-cell multi-omics in oncology and immunology \227 shaping computational strategy) Tj T* (from discovery through product development.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 284.7354 cm
-q
-BT 1 0 0 1 2 30.5 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (\177) Tj ET
-.101961 .101961 .101961 rg
-BT 1 0 0 1 12 30.5 Tm /F1 10 Tf 13.5 TL (Lead end-to-end single-cell multi-omics programs \(transcriptomics, proteomics, spatial\) that directly inform) Tj T* (target selection, mechanism-of-action narratives, and translational strategy for oncology and immunology) Tj T* (assets.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 256.7354 cm
-q
-BT 1 0 0 1 2 17 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (\177) Tj ET
-.101961 .101961 .101961 rg
-BT 1 0 0 1 12 17 Tm /F1 10 Tf 13.5 TL -0.034304 Tw (Set analytical direction across parallel projects \227 defining standards, reviewing methodology, and aligning) Tj T* 0 Tw (computational deliverables with clinical and discovery stakeholders.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 228.7354 cm
-q
-BT 1 0 0 1 2 17 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (\177) Tj ET
-.101961 .101961 .101961 rg
-BT 1 0 0 1 12 17 Tm /F1 10 Tf 13.5 TL (Mentor junior scientists and manage external consultants; grow team capability through code review,) Tj T* (design discussions, and structured onboarding.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 200.7354 cm
-q
-BT 1 0 0 1 2 17 Tm /F1 10 Tf 12 TL .101961 .101961 .101961 rg (\177) Tj ET
-.101961 .101961 .101961 rg
-BT 1 0 0 1 12 17 Tm /F1 10 Tf 13.5 TL (Partner with wet-lab, clinical, and CMC teams to translate computational insights into experimental) Tj T* (designs and go/no-go decisions on assets in development.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 197.7354 cm
-Q
-q
-1 0 0 1 57.02362 170.7354 cm
-q
-BT 1 0 0 1 0 17 Tm 13.5 TL /F2 10 Tf .352941 .333333 .313725 rg (Skills:) Tj /F1 10 Tf ( Team leadership, Scientific strategy, Single-cell multi-omics, Oncology & immunology, Stakeholder) Tj T* (management, Mentorship) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 162.7354 cm
-Q
- 
-
-endstream
 endobj
 8 0 obj
 <<
-/F1 9 0 R
-/F2 10 0 R
-/F3 11 0 R
+/A <<
+/S /URI /Type /Action /URI (https://scholar.google.com/citations?user=1Nas6ZQAAAAJ)
+>> /Border [ 0 0 0 ] /Rect [ 474.2888 729.0047 532.8708 739.2047 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R ] /Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
 endobj
 11 0 obj
 <<
-/BaseFont /Helvetica-Oblique
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 12 0 obj
 <<
-/Contents 13 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Parent 2 0 R
-/Resources <<
-/Font 8 0 R
-/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
+/PageMode /UseNone /Pages 14 0 R /Type /Catalog
 >>
 endobj
 13 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ]
-/Length 2592
+/Author (Enes Senel) /CreationDate (D:20261007043319+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261007043319+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (Curriculum Vitae) /Title (Enes Senel \204 CV) /Trapped /False
 >>
-stream
-Gb!#]9m>@#'&D_Pbc9!;8$k]_+'.8KZ'.(+G2h.h=5H1f,bg#!(*K`X^]*$i77q_KLW=Pl=Q`d#"leRfbaghjOSX3UrdV4!H8DC]G9MYP:$33#NX%DSTXWBOJ%Q+I,DY=>IM@he)NVqZ_g"/VF85Skm"^d%8<;ZqiYCSagL[,>+\e;*,bhNhf2sB^7?5Y^.Hi*U1,"nCHZWkc79,4CR9XEOUPq*hooCs.SYlGK/UbWShmQ"lSSdauRh'^o*Q0e62fK`IUWEL_Nr:'V_g!.1Z$/8*@'\RUS:7-nl@#7nHYi"Sd\TW;U2iidpN:QsNQ1W+OH`eH]LP1Z]+k'ehiLW*8J-,?[o"uZ&!c9Q_[]1qLX/4L*7r!D])<Oj5!=FG;^l!MR7Sm)=T6?<@80oO$p4i(^NRb^b3)g8dc,^e-17\,AP,_Z$S@!!C<_h</sF_G8??fk&tE;TYT3p,LH5JPeQhShG`j.O=Kutg*=gndp=hJ$qIJHuLN.k[_JsDrXOdorE6g9KJ?NgQW=h]++:O4P<)N.-<LTcB]9ui56((kS/M]:CI?\*]\MgLPX*'g2k!BdqBLt^8A'$%K+(#7Jrdc2:5CMk$=o`i!AYi$7/5>EGAIIHgmmOrKB4+e=h?DWkM?1c%Q*GPG,$V?0A7]Ug2:I_)Q$9LKBKZ&r/TC7$'jFM74I*?O\Hc]C?k.N2/Z$T9k$HcLa'5pR)RrZr,l'G3&69K\Dc)%M8EX/$,aklU@VOAbStQ!<B:!6o8k`Pp260>U0NAlpU"A?;?W:3n`i]ERHn$R&8[S]Sq$FXJ58\gPn@o-C1Tamd1GFS<$MVd)-EfRYlY]=qE_X#5N0Ae42[K*_k&@g94G$$Y]<l"oUX*R)pfK(CKh^CjO!IV%ponh2^f!0/L^h+2/lsVNFb)K3Nr/_4NLQI22rjf.3\A5pRmSf%!+,fZA2UbuH*?:$g)aCj3!)2N1LUSbC"7gK)uf^Ors_?efEFgFk^lSeC%9k@TRQsW-M93nWH8*K'(=)9db=Z\2mu09LorX"6)%dnjJ-&)W'..0[C9^E3n_q0>sC^Y%(d2=Xc'S\!RF,8f6gJr`-iT&iFMF7:;bP"#H&Bb9dTnA^_a/MP7.fnc0'[k$E2osEla9e&Q"hR$_9pRZa]ILOPBm**5(M\o[7E@J/%Co#cVc@TDM(n?<22.C-6cr.1Xea<H\iV\sM+b*/Ru/+@u=^'J^2hWGEbm.H-ra-Iip:&$/]5Oh8Q3!f@"ren^+Z[O*S<c;1>.["8G8\g`fR:0/p1*TD:q+!'@M^Qq(WjbRcP2fh/?gUVE@O`//OoDU,QOI28H:#pDAd3\pU=Xrs4cfae@N(S<@"00p'8M.m_,D)>&EiV>6J6dLr;)K4bjn/*92>f&0^]&do#Q!&fs-Nod2L"Kik)krsN"+=R&qf`=hd_MXT#e*H+Ek[S$6=1dM!G0M)oi,^3q2&B`g0.F8C_iS^_4`4$&+kL*\qeRO-Y]dZ@V&e+p\_,0QE@nPMGuT.12(,k,1YZ>@eq7?o*(c1==4lr=:(sJATTj`D/W)^Y"f/lo>tAN$tLh@Z40386,WcC&cB[apTZYo=:N$DfDon2gcadk:M07A1du[V6EdqN7pYRFMT+a:cA@N:AJVCgq[*)?>5]fFdaPWjt^'e>5lH$%u&4?c6eirT\bE5)`D;rh4pC^PDmu%+0i`)XZK^c-(M%1:n.2o-EddMH?RUmi%#%dcjAKEmCId4s'X=8-+24`*`R"eAY;hA^f)3AHu#4j%'3pKdd8ndS%2/"RE;JW_gLS%[=`@S-f_*ZMGFI1g2HfsHJ+dom5]=AjS1tRid'6k$D7;dc7CH1?ZY<:+Gb(Mkm(oQ-eP3gW1@^lJX9f*pWa,FpC2BqB02Z\f7iT?LuRCW)1q'+J\=SL%A-4[Ys?LjH77=TYloqkDd#E&7*<3Q\9(F<@UU!>+m9o[#9D*tcF.'J&8Z?9Efe]GrtM;Z^!LYt!hr0O+QJR$aoIs;C^SasiR&iV<8<sF6Lc25h&^R=Hh6rWMNeJ#)MC(_9>/e+.MZu[_jh:jgb7AT\.M>6X9`ON!]AQ.[J$!+/8*-"9RQKY0e\o6dooX\`eHc:iChP7.V%.Rm@oM2q>SBk1D%"tOI/l.HU?8)%n3"3D0j/!dF50.:#\Ojb/Q#?W9i;XLE9/3",)PoMsGmFU7c":@Fl$\s4bSS:5;U]OjQ.7d3A-Z5dE[_?Skf$MFi,`6V0pb4)B5mJ'#RtbeUJ+alt8g:u:j9Eq[[?Y.LcUQ"3\ALG])rX:N3?LD(-VB;D'8FGMuF=e6L=Vo]u&7aa0"Z7LScb1t^9/8-0t$@i%C<i(kdcY"9X-=Zk$T5sA4<ZdBKjUY/%+Z\GMD4BaCJGb#S_cSNDlCTG%9!j-2SN$3Cdosp_g^sl9B+U/].Fu3cjK>_fb<3#]F2/5\^Y>A)lJHWD?]\HCdKFgL1rN.lel.3O5+0RK)>aob!7Bkf\]fgt"u$(9REmmcW-k@[?)*E"pE.A_FH_$2MU('O$oba*Cu`Xd>TSn8Zm]7JbKo-_]6*H;A74nRjh0C++@RZb`N%P:d-%_V-NbI&Is.XZE-Sr]kOe'>,a.;:~>
-endstream
 endobj
 14 0 obj
 <<
-/Annots [ 15 0 R 16 0 R ]
-/Contents 17 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Parent 2 0 R
-/Resources <<
-/Font 8 0 R
-/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
+/Count 2 /Kids [ 10 0 R 11 0 R ] /Type /Pages
 >>
 endobj
 15 0 obj
 <<
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057github\056com\057rajewsky\055lab\057optocoder)
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3330
 >>
-/Border [ 0 0 0 ]
-/Rect [ 57.02362 241.5854 383.7736 255.0854 ]
-/Subtype /Link
-/Type /Annot
->>
+stream
+Gb!#^>>sQA(4P^ZTr/c?.h8iEgh'n/B_kcV6Nb#g.UEfn8^uCU8$ZRon+SnAigB.e2V[KM'EnVHFEDEXq9BQqles@95EhVBdp%"n-=gQ'DJ(MZ].pq2@->#&rd5H`SfEF>rZLY'fkAn$7_O&"pMd_`%`cJ#`4BA6M=Go$LL9#-RJAA7):i9$?k*b\Mk#T:8-4gsQ*BUE.$=JJDSNF1^QH`9pt@&RNgb!DP?p3dZ>MlF`"TT9`n+\;;0UqE6b+7d-M<mFLm?\uRm[T`8m?JkREg_jjJC@`BC&U_9[B'l0#G2#Wd,qC6t@1YX/qP:c=LHH/Eb,A.`!mVNP\%'Adb]UCP@d@_j*rT/5#Y/$UsrV>1)^J7&,J_T'4r'lB35BSC1oNF#SiYH=N=X(lruR[bbQMMd\8^F=Ks2<JS7&-Kg7#*fcWBk"[/-,P]JdEninA3L<l-dCFbg)*oo\H&l`-^O))878"[pF\FOl>K>Q\$^f+X;,,m;p&=]moNSF0HAL%(cF@R#5#M?,i=gB]FngXGLcsak&%ba)qX#fpQH32kM7S>uE.U;0G-c5liOE3DlN>$rgt4m89^](b,Rg/6r;#pSjSD*u[gIe1j+bdccJt2ZnGn#Hh%?/7)S]Nim($GOqZHe*6iL"t%"68rVY[*Z\<Pg+XR,.";GA00!Q*J6_N8c'\D+k'QG>'aCs%t=\^?[7)96qM'O(XC/CQC%r[NTkO7C/%CVPpE5nEr6oS5]"a):s\j$`56bUtuXMuhjK9C*j*.%*=$#YNbY@,-.10R@V]DOFHtX2KWF/M6S,;QE%*op0oA.j+CM=fp=0D#NV3;YgE`Ih:rZ#`q<T%eGM.ALCKgJ5d@O(IA:+<sD^H"g4_gh&ZFpPnKVpdpZ?Ih\>uL\bh@d<hsQCX:_$O4;H5gmnT^E/^9GiHtrZk<s2Da5[fhNi1&%O%*$3hVf;\/g9tf-bR!,8"8ICRR1Y9V=K+p6c.s-YNY%*BP?-lH^,j#XJ,]!)]S5"p\3'\HRFR5]jgRE-R"PqEh^TH9I9JqUhY6U+7@`:)_=i:=%`Z2Z*I$(oV^b/OIa_YjH?(99GZ)dhe;FN[Y?-N0W758mKDp%0_L061PB)6pa`u+$GN!5r6pb3AU55'n@O>E=a2JV)+?!e$(PEPcn7@4jGMhBmmZh8SH'NNnk&S;#Mh4i1lC=>j@9>!rU*#%kG&#+QaNoEA>Y1CiH5:IdSa94CHOkL!C:4Thj=cZ:&MnM(^B;Hj(J<F+_["Tad%,5&8lue("PPM%L[M,EPW:7rlAHB2/T)7B5;V8krX0dP^U$n`,aB>d%S#G)Kr^/WOQ)BTH=V1go>]p6,6[FNnPUhl8ReP7=q"IK';V>V&A;4nQmCJqE%A_O.j'F3jPj2^oUEP6:NSojc42L4qL\=8Ec>XBE+Y[++SgC;;"qd;-q:2[+G71=`8JXscWHpN'.OL4')t:-HM9X]1-eS%e8aD6kj7jK9S<tPe?#a1ntBh&&J&.;oI,Iq.?oOOF61Y+f>gJgF,c*7Ul,++lc#(Xo5uW+&,'&UY-]cZSKK8P`+r]Ms%eK08+Ac9g`K*Z-*G#:CR)G^f4#]hkg3c1[$"S6G_OS"qN8(a-'1p-65G)/)O`XoS6UP+5o]\KI/*^7gja>^mL!F+;[7J0RL)KBN$f**\Z0V,MUj?-O4Mjs/JqY&o]jR3=kEMAV0n+,9D&l?KUUEm0&n?@FB`+f^/VD,PbQ0JWB_u@Po;Uun/>"&e.J@RHQ0"'?MHRBg6R9:1N3O#Z2cG\0%K1Y/LC]B[BOCqEpsZ77%c$"@0p7i[1n*[Vc=q=16^g_l4,[@KUb5YEM;HLm^7m4%!Et.%Hri"i!S]q"i0));I'$>[UBP]Te0kVqU'-`r.6.RSF;\eXI2QtRfe]^^@5JkXotLFA1^!KK`-$,bhP,TOi,b0-J['$@9upPqIj(/cW.7LE7D*qgM-2T/+r%HV=*R?\q44_RGfJq:h0Juot'46Z.C1hR_/PI:@?dQU(%u6^;&0c8?.W<s.P>C#>GE4V^`HWr17gpiG)PSD+'Rnnb?T2YV"8g:jCBTlF!B[_@N1cGoHi#^)f'6lS2>/g<N&n<B?tW;g94aX?%l`c_:7SSYLnuF$(%.3=TN5Sl'?fii>PQbH@jZ-LF.H["`uk\Roc6o'PHj'L>W*"/rj(C^WK"ih,7drF,6(Gbio71W2V(XG[_bb5u=H6C[PHJJ1bs^^k:9?4Nq]!>Jq^_HX`d*pB4Z'B,@P_iT69QiutaC:q"MJpLub>9[1O]j_U2(t8S1o=.d\rlCYC/*n61PC[uJU4H(O*>4?\;I]"=+X]^@8a&/>9j"&"<J5*ZPf1XJ,I/?tqPYYa_7I^>/0b61a`(q]hRAI=aP'eRJRgblPOO/fDC^N0c50DbR>'3@'=/QV5sGb1bTI"i5lI3XPRFSM`qmU3iHKugqjts=WKg>n@o.G1EVU)0SZVI$<e8@>b9Z\(4OrYhd04(SG@F:fmMo?EF*Bh+#;a0^#Ee8&RcP$HZUu!$Rb\WH!9Pje!c;W4\nTL[+E0tq<Yb^QX+G;i:!E9cchGjbe/VKd(^p-eRf/DTY\p._jh?GnhMJ34X8K&pA$-rb5g^+Z!"NG@%Z&:0&DU_')hl['468D1g?=bs$Ib/JKY(h-LD-uFS0g.9llldf+%Tgu,#SW<HMO#e1Ch3+3fZL[&61sTC0jcT[R.I8,:YOJkL[1"'%Ukg?!i3IPQ5&/B;2)cb0hCg_52!*A$trdS/D7H:`q94YiYsKdJ;9f2dOh%+i\<cj$m"KK03W'Korss4>L^m)f1"338.U'?`m-.0@nla1N@T@5fEj_EY3JlZ$fG"G(g\`kNm%LIFhno'fq=C$^Cq6]q0neE.:Ka_b#c'J7'IBnC'DaGVFt$mdThU7pePA/;an=?:D@C=4@>KJf@*u7NHKZT$C9QB,l&3L(Nu5$Ar@4&I%)97b^<I91QVA9Y+0L9u#a!?lRdL=>$-8'2eRHJ5:#/)dtB`E2+L\n`1`,+Q[#:?cJ2SdN=a4#G+qbi^QiWTFpu#I#Y<6H,j"0>E-!M^(ne*o-U7&"DXtb?rF*Ro:*Sp(:ZqXQ!sJ\;74]Oa<!_g]U8JeNcsF$Gdr%W8+E=.LD*&j%;ENo2h(u)ea%]`W4VaR^bZo&pL%11X@gf(:<CL5icNflJEZs51+gZ5B^eEf+%;De^*F+)^D'P"Tkd>rKBC2>h?<IDQj62cIX+4*OcDIE^hJBpV58gk\N;6[P`Zk%kLJ*SX*E<SaLLK1"1?Eh0^hNuI_nkEMFO\ecrAJ)/`8(H07UANCs`3UeLX+ls(19UHt(P;mkc)4oj?8*kIp~>endstream
 endobj
 16 0 obj
 <<
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057github\056com\057rajewsky\055lab\057novosparc)
->>
-/Border [ 0 0 0 ]
-/Rect [ 57.02362 193.0854 513.2536 206.5854 ]
-/Subtype /Link
-/Type /Annot
->>
-endobj
-17 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ]
-/Length 2516
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2109
 >>
 stream
-Gb!#]?!$%,(4GpYS>Wud*f0V;i#@:(m>Rt[nBQqF78cA[8Lh3LU.t[aH`CNtp&n*jGLkt]&n6ta+8bE2:Z6h`^Q/+/V#]Zd3;r2oj2,7/Nc4`t\:TXXaa[*VVj0P]friqN+Ug^gn,a[rL]=e&gDT]*q!h@c:[jdtIN-lG@$0Fq/i^;R`bdiO8S:L=,pM'Y84k3DaV<OBD?saDk(P":nVe`49aedK`+Tq6?XWCO/3[eFrf+Ze2YMclND5.@:Tr+b%u-o<Q5@%u+!'jp&&()2kQ^5VFJe+<ga4;)[W%X+`DiNZXLNe%6!+><&&;;u\TdpZGm3\?ODMNYKE@=R'N]M;$Pb,4G"o$8A-]:)%*Ak"Bs->&>PRLp/c2Gei`/"T`7nimoGu/tZq(nsnWZHT=Jk:cQol4X8Yju@;nH@0F.1&^o9IjhA$rPl*B%QND(s)ml*s5#5:8#BLE!\nghGK?Eda28$)95r,,aFO8\CR"J`7N%#E$'!'?kkl%&+3Qel7D4e:s84dD4!1=-TVbiaP!iio5W@93D2!9bip"Q#*""/-r$i)_$iq[lQ?:(.6;E7!Od2,VKNAEgG1-AJCG^`G:dAX*CkiHpV7ea@NO?l!%/D3\aK";C0LI=RdSn.jCYD0J<WE3n+c$:A0W(Qjs[l8=o'_&kisJodQ:UI;pEqfX8dfIlQ*DTm=HsW0LRc9iZ`pq<g+hR;Z5ka>7>Z+o!';;MJJEQpAP4cs<$jn_1iMA9%K8+8c$V.-3G5hdMoYF<E2X!?EE`.?.J`=e>.0=6Of87frEe0&Aqf2rAfnE=-n-H_<]?:fXs>'j3GWp8,3I=X79T'Oj]SM&g<c00R7SILE?li!iES331:P8U=LI'G)Q&bn"W^!DCP'p=9D*&N`Y*F,>UHI;Vt5[enCIX9Y3`*.8HHk;,`jK]7+a#tLMjmg&DM.Z1['3`^j1J<_LD99=BlI.2S$BL\;E?9nq;1S4/HO3`h75lqYEPi.CTD*q]8KJWu5IqhO#$^RHIJaoqYSrW7d,ER;L*f6PES]$C..7_%l9ooi^2fZVMP@THf%Za;#8q?<(<RNuC;JCUCZ4MAFf0Shj)j]Y%X(Th_LE/`"ShQm+Yn]aBZDCQWSX0XH#R5bd_&pfT127V0(/h[$F,ViDJrXkqc\eGS.gCS'1;*pAs-3b*SQDr-*=dI=b3e4bLtL+h"ihLZ`rBY:kZggL`hUN7c#jESS^?qC>Jh\gq<c*=52gYrqLO)M!Jf?pPKZ-4"b5H4Xul.B9`jp]O14NQj58\GDE$.bdUM;5`,a.J_UlEOh=V#*RQ^--?seh6acfiW>8U_`3>GY^TUQSXH"KC,V7?7d+,?:>e`D.RD[ib]jn@ZIUZGRQBRKhQ$cfKqL*,'d()p5Ho'D,kU\LTU8]sZU.>]rdD^HkcN"FK,/9>'T9:r7ZBg**eLXErPIP#8-MgM&;(-LUN]tK'C$a:%h4p&cu2RV[E%;M9:H/"J6pBEKRhMnfENAd1JV<9P%(3m<.'%Xp407d<N[(\\J6gTj,XpR:dWXYZ,%:e1%4K/NG+si9e2P.GF>T4[F\CC#cSte/2[^KR!)GOU#5>3d&BYtK-FQ[B@,hmbc8DYKe:`u=D*CsKRHmFgQ._**;7=>;.ma!:q0,VESm9_4a'L-7VcCGs.`lsiJm>M2'8PMNP)DHTra$K-hU1k!_G_*2FU3V;3^9YQIT(UV-[e'=6e\ucQ0nJ)ko;g'?Zd2i8iXBqdrdV>!(X$@YB$P@Fbk2h7/r@YITmkNp7bOE\!]u*:o-qLa:Db,b<9Dgfb__"G$-@/o58A::>6u+Xo#N(P.&8pE8Q#W$+!KAY`Wn;@N(:4njl1/ud<!SE6MZAo,G!qqMbkq`(.uFQ]t4)2X6p6d3*!YX"l,MK;[[%A2\G;kB++\]H4%N9?O?0&C7]^n7)g=[=H@V*(O-&"PWZYXO/:/r[k5OuM^:FZ3(>o(30.KAONdo%R#F!;bHBn7EsdIY.TLXJ^UQQKPMNpobmV0-g@h[qHNqG.e1;1]*HCd0.TGsdVKc;Q*Q6p#c:N3U[#9C^;^WkG&0],t9ci)_DY&56F25]$"Z,]sI?`KWH1O*0KZPfaA!>s&CjJ#uY"(;C6F0ShrC^pJQ6B\7`#S8'_ng1uV=!`RCg>m,m:X*+?8u?CnTdlAd2B"uqMd(h>Ul!h&.t=0U+eXZhu`G2d%6B0L<392,A3DW0UdaZ3.t<63Ti`Bm]mN"5E]dn'iQ_%9g3^o7.SHMjYPbQ;j+fo,=>)T9RS9k$cDl08$^As;2(Z^Mn0K.1cYaaVhJPFn1pn$mbf>%gFX"nqEggR!(0B+B.E!Z(`Fg9-'=I'@8C6@`!@f+%a$W9lk"L@YrWp./1LND&C5QhTp@Zk`V]@@5Sd:e5G-,j*t5Q5OQ1g9k!jZ7s!#OI#eKESqUYeb8@.b!1&&<Q(&K$7=>hns_VB]H[\^YVlmbtW@ANeZ,ON>i(At&gaP0[TD1<f:a#h8j#"R;CaQ[abr!c<hi0F(iPQ(Z/`/tc~>
-endstream
-endobj
-18 0 obj
-<<
-/Annots [ 19 0 R 20 0 R ]
-/Contents 21 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Parent 2 0 R
-/Resources <<
-/Font 8 0 R
-/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
->>
-endobj
-19 0 obj
-<<
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057github\056com\057rajewsky\055lab\057optocoder)
->>
-/Border [ 0 0 0 ]
-/Rect [ 57.02362 387.3354 211.5236 399.3354 ]
-/Subtype /Link
-/Type /Annot
->>
-endobj
-20 0 obj
-<<
-/A <<
-/S /URI
-/Type /Action
-/URI (https\072\057\057github\056com\057rajewsky\055lab\057novosparc)
->>
-/Border [ 0 0 0 ]
-/Rect [ 57.02362 355.3354 213.1836 367.3354 ]
-/Subtype /Link
-/Type /Annot
->>
-endobj
-21 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ]
-/Length 1807
->>
-stream
-Gb!#\gN):5&:Ml+o[=T/,*),Hh'XQ>A<R=]"Ys"\`JZ8tTY\&Ra\IS9fPfZU\:c,449MS::_eZ>QF`.&l#,/U'0hf^:K)cS"$$<oJRuaW!A)iA@;lV5i8iXL[BT9)_mCHAL*49oj14q)hDQq6CAJ^Yrg';mSC:XnitrgG;I%-EbLDI6/%8?e,*@uV^lt;1Z\U"F6R!pMp^`O/Ob%`WPtStaiuCT*""iRYg16/]#ueVqYV2\@cpW]ln+2d&Qo]r;<uCjA`pbp92T=W:lZ"nUh/q%o8,qPWjTN$d-4YA?LBYqCpn0@Z0\Q_Y+u<,Pd""='=AjpW!?YF^-5CoJRqo`S>&_3uq+#).lun/X2CRX>X"iCc6=qJl+Uf#RF3,"q#dY+5oH_aPn/GVgFBTgZd&3CF'G1N9Df'1b_0cAnS$lHG$@<N,AcoYRGXnRTB<DRMBMJ`Pq%SnoFA`<$Vo='+7Knj8/lG(]k7k+0XH+n_WE"WtW!2Wq8^]Ae2,6a@;fjb=26RLe9:O<`aed'<h6QoYF2(Y&doe]=ftd?3@J?m3pZAZ&*(c`2)W4Pi67O&"90&+ZQ>ahVY=LBZOqp("Qmc"*W;Ru?I*_d61<"GUa(3?c7B]^H5%70^6F&1R$**c3m3.D<3,4`3^m9e7WL=i68:8m7k<e_i47>&OA!W@ucKBdS`Ze!`m(?]AYD0Bq89fUTW(!H$891$fPc`Po(ELM]SVII:99q"nPD*)3KBIO#9E[$B^+75Lqm@3WF04J7Jl]&bf*\ir<$Y]3i)Oa>EH`c3cS>/2QnQU>D[$XeIC6?8p]9r^FSRNF0DMgQ>W9@(]@J+k%/L]D2_Cf8[P0h;c-;*m>VNPt\6f!-;2!fV8Z$,k_/3;/D)WI4O[+ENoPOccn0@4kc18,qFUP<`.VGaC[rVk=;64`I/EjCscFHgVK+W,4f_;@U8sOU0P*>jK\:M3YpS%NR,QFNpUJgDsKB!)U2'sLebsW0.;)jkh</45:3:WZ7-3>d%$tp<s1SIP2,i]J<FKE`5j=>RTPM)uVqaI`/_IS?34b#'%K=,gYa8XdMD(fR+DTgb^JD1h:_IJ829.R12m4kiIp!#R#9`=H=]GQ<gd(KfKBDq7HmimFs?M=Z-<fi\aq5&Ps94CZ6>FU(/gUS$EZ^eJi&8L#MQ:DN?(o5L,qO&61D**:A/PPu)-$]45dYgtHES67<7$`nQATs:d.esd*ed!X%?&6j:E@b-h<5H5(=dY$[>BXM5j7_klg5+qP+u6)fcfKcWB*jF?`=&;^DMHUo=(lG/n=4"*R>FG]T9:8O$n%d/n6fr`dD0WV?_I$LSLni.S^0.2MY9*51W@'K"Cp[H/gG'6(u8R1N:p9h(IFULCL(hiI-ud'cdsR,4R74GmJG3%i1C?_>"un`5NURX`nL%i;roZuUtD!q5N&E[\<(H#&cL,[.FDaA`$>b,AK%,s_N?W:rSn?pHE<nIT).r]IiEOZ1uW>"#q@T;]Vp?W.?oF3bZ4tfkJ^Xt$-IBhq'R9mF312OS1,99'BPt>I(JkhedQ=K8S3i1?'OjjH:H)3Z0>dFT:^hNI@Cf3'onamYZ)VTkk=+l%U]GR#5cIWE4;Ep7#<'L"%L^!gu`La^BchcHr,b?/jaV1h23IGo!6Ia/h<<]d'V#_BGbf=.%b-L6$"2Hh9T;iCTuRS4']':P!^U9kl`Uq[T,$SbWV?IrX3Q_=sS#jSZDY=<EPq;g/t!GGEaBpAZadfB13W;!aWZZPa!gFLUE17JbTaO2`3Nq9Vs(&UK7:`1<SV$B$7ZP_cfR:DKu!b00&b<=>>>X~>
-endstream
-endobj
-22 0 obj
-<<
-/Author (Enes Senel)
-/CreationDate (D\07220260529172419\05300\04700\047)
-/Creator (\050unspecified\051)
-/Keywords (computational biology\054 single\055cell\054 spatial transcriptomics\054 machine learning\054 senior scientist)
-/ModDate (D\07220260529172419\05300\04700\047)
-/Producer (ReportLab PDF Library \055 \050opensource\051)
-/Subject (Curriculum Vitae)
-/Title (Enes Senel \204 CV)
-/Trapped /False
->>
+Gb!;dd;mr#'Re;/go$]b$a'rY`d(4-B![u&=Wk'J^l'lRW3IpUP%iRPh]j'[dQgI&ktZGi0sZ50/"M%Ud?-P3najn=S._BPl.p]I]G?LqaR^FE`g8M!++63@es7?&Bm9JuS&36f>-8t,];%T7)MHr#i7!hK"l5gdP2iqo+8n8Rrk'k_q%9-Cof1Y^:,.J=H#>Ws[N33SD)UEhY1Tg`L=;6"c;_HL;lta3/2IaHi\M1QKSFLsNJKGd>4D7ET,!uVN,CGVj@TfdH8N-Bdfs+1c_j5&L;k<Lr2ZCST6mFKK\OuG]dRj3jKo"RF9DHQ;:kK59rI)pWX6)4CR^]R=3dc+H@@_@["8D8qsKdI/K[5-W*FQdbZ`T8I_b2mie:h*')i@K%!mAE'3/B*HnNOY+5G0*\BgL(OZB%ri[ed^O`JT(T-YKES.^\R#gJ<i)6n!I7^;_pA95=\18Q22]p8h.Lm60-k>DmBN6Gf^$VdXY*5sZh8gZAF'Wa4>2'3&Y'f+Akk5\=_TbHhu[Cln%%n:]bcQ63g;A)!.(7]\hhnJF4p.n7jL9!BOF,NK,@q3o4"Pr(X!AR5JW"1YhJo1[\o,P'>6.DnXg1_*dh(9&++EC<sW/"EoO(u2u=1MBe9j&-^rb_+GI.?1lgQ;l<NoOu%V9cCArQ+6+h01rZ7rgp1C"T9@q,(2dOHL[di#mhpPL*umpKl\SD?GuipIaLiZfj?H-e#^^AT<7>c@emPHps7Z^2acf>V]o]ad\/CY1NjLGqrB`G3I!@eDiG1kT0V&Uf3]*bSK.pk_uQ1A-ZKLL@\`:iM$e![G$DGGJA^>+2/ZU=/1"m3Ii'fJnM$ZEjT<t0=#UMfig8o*F0D)\i=(=mGO7<%-iNj3l$.oq?Dmbn7jYKm>(6-def3X2K1a]$tANKX)06LIN?@%kWe$umpNiVi,[0`&,LBhHZj[3&`Dl'+bm/Kq/HfKMn8fA#+^e7mTDXOS!A'TV%30b/*@eUEKN"VM@>IPPXs#^"Mt3qUCncMSFK"6;PRJ^5>.9cBR"sZeGKurLm>"m[&5d*#hib_+I6DIYZ``+o:j2<Q`ZYRr0Ud]#Lbfu)6[XJ,Q=[XHi*(T@0WC$qLi`"W");+kO@EX;EJu_,Xj1<7b;\&n.GU.qa,ccH7a=_HJ#6FQX'DSl)oB6a0^D3$b<J649Asu%34A^=Q7\_grL=XVG:gEdBNC?Z%9`d;?^\o<['K6'#JGWgRL$Yf/a0/=Gn6FA;]3$6eA5'6>4M'qIPEhL5$8-%2#Z76Pf7D(?G@Dp7q+I!Ia`\A'<9VAA+-u!9n9s5rIegj&e5.K[L'>BcV^t0'+Ko_t\oQ')j#N$*Sn[Le+D&.cN5&Z-[DF`>m\HJ&iAF<n#Y"2)BsGF9>C#QmR+an0QN>@7YTpT:JBRL&$L8F9RX'@#>8=06N-HHXK'2n]K\sfgl$Ehlh!O#`(#9lC3kX%d-VrUmNSU_5[6><C8er(#oZ^_8eV7P;DL7@OQDK:T)r]]$AM`kL^YnVR"I$2[;/`/eWNX+X!kNQ(KjMGa4mt<&QJ_m#W_X6fN\-H7L5F7g,V<HBs'd+c4eMU?LK%:N"GZ1uQNM/d]T]*[!<&Ks9'1*BlSGGW;CThXImOJW75Yg*Z"tc&OqYMAH]ujD;`&2CTS,l?rO,@*fimBY0%b]C5acjaK8mU^$_<MF^1E6sH\5RhKQ2CXTSsf\ELiV^2,E]^rQ\nGAIB*uC91#=rJmjS1r73r<g(mXD'"g[@,LXu(*sZT\oR*!=kS7c2W5=55@f9V7P*Y>:=AT.FM%b!S!9[4jVlnQOm\pNA84<3::^OmH%F1[:l7#^42s<:RY>ONaiT>DnVK.anARD%TlU,tOU"So?,pJi##W)%Q40=>hi!nPggId=Ft/T!K<XX5f6jHYbA.jGsN`,SB55]^ON)DcW5g4P[$X;T4Ou2Xm-#l?sj@@ns;=(T(=FYYj]=]Cg62jf<Sd?AbVBdLKf/]%/:UaY5'O"38tk;S6Jn;Ea(bk6XiSY0gQr#-k'B,(DLQ;]dWb>#8jQm#'8t_Q5c;A_9.Qa9:B6elDc^h\(j4e='jVZl]B-Tjrq-2*SK>WP,>R\n7r@P(`&_?[!U^J,~>endstream
 endobj
 xref
-0 23
+0 17
 0000000000 65535 f 
-0000000015 00000 n 
-0000000083 00000 n 
-0000000163 00000 n 
-0000000392 00000 n 
-0000000583 00000 n 
-0000000778 00000 n 
-0000000963 00000 n 
-0000007219 00000 n 
-0000007272 00000 n 
-0000007379 00000 n 
-0000007492 00000 n 
-0000007608 00000 n 
-0000007809 00000 n 
-0000010494 00000 n 
-0000010721 00000 n 
-0000010936 00000 n 
-0000011151 00000 n 
-0000013760 00000 n 
-0000013987 00000 n 
-0000014202 00000 n 
-0000014417 00000 n 
-0000016317 00000 n 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000509 00000 n 
+0000000682 00000 n 
+0000000872 00000 n 
+0000001052 00000 n 
+0000001258 00000 n 
+0000001373 00000 n 
+0000001621 00000 n 
+0000001827 00000 n 
+0000001897 00000 n 
+0000002181 00000 n 
+0000002249 00000 n 
+0000005671 00000 n 
 trailer
 <<
-/Size 23
-/Root 1 0 R
-/Info 22 0 R
-/ID [ <e5a03d4d865a10715a5aa09c503bac93> <e5a03d4d865a10715a5aa09c503bac93> ]
+/ID 
+[<03d0c93331118b86f3505afe03e52120><03d0c93331118b86f3505afe03e52120>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 13 0 R
+/Root 12 0 R
+/Size 17
 >>
 startxref
-16743
+7872
 %%EOF
